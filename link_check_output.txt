@@ -1,0 +1,962 @@
+Link Check Output:
+Link https://www.essentialcivilwarcurriculum.com/civil-war-pensions.html failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/%ef%bb%bfwhat-once-was-pensions-portfolios-and-printing-j-worth-carnahan-in-washington-d-c-resources/
+    in element <p>Kathleen Gorman. Civil War Pensions – Essential Civil War
+Curriculum. <a href="https://www.essentialcivilwarcurriculum.com/civil-war-pensions.html">https://www.essentialcivilwarcurriculum.com/civil-war-pensions.html</a> </p> 
+
+Link https://www.worthpoint.com/worthopedia/civil-war-print-brandon-vermont-vt-1881552497 failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/%ef%bb%bfwhat-once-was-pensions-portfolios-and-printing-j-worth-carnahan-in-washington-d-c-resources/
+    in element <p>Civil War Print Brandon Vermont VT GAR
+Monument rare | #1881552497 <a href="https://www.worthpoint.com/worthopedia/civil-war-print-brandon-vermont-vt-1881552497">https://www.worthpoint.com/worthopedia/civil-war-print-brandon-vermont-vt-1881552497</a>
+ (example of a Easel Monument soldier’s record print.</p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>In November of 1845 Washington’s newspapers, including the <em>National Intelligencer, </em>and <em>The Union</em>, reported on Mayor William Winston Seaton’s proclamation of November 27 as a “Day of Thanksgiving,” it being the city’s first observance of the holiday. Maryland’s Governor Thomas Pratt had issued a Thanksgiving proclamation earlier in October, also setting November 27 as the day for that states’ observance.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic1.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic2.png failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>As the 1840s progressed an increasing number of state governors adopted the holiday and proclaimed the observance of a day of thanksgiving in late November or early December. Federal holidays simply did not exist. The only other precedent might have been from the early days of the Republic, when Presidents George Washington and John Adams had each had proclaimed a day of thanksgiving as a religious observance.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic2.png"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic3.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>Washington in 1845 was, to employ the cliché, a sleepy small town, of a little over 33,000 residents. Still in the future lay the major features familiar today. The creation of the Smithsonian would happen in the following year; the groundbreaking initiating the long struggle to build the Washington Monument in 1848.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic3.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic4.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>William Winston Seaton was a fixture in the life of Washington city for five decades. A newspaperman, he was co-editor of the city’s paper of record, the <em>National Intelligencer.</em> A Whig politician, he served as president of the city’s Board of Aldermen from 1819 to 1831 and later was mayor for five terms, from 1840 to 1850. He was a member of the First Unitarian Church (now All Souls Church, Unitarian). An element of Unitarian doctrine is thanksgiving, so that may have influenced this first Washington observance.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic4.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic5.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>The First Unitarian Church building was built at the corner of 6th and D Streets, NW (now the site of the historic, early 1940s Recorder of Deeds building). The church was designed by Charles Bulfinch, most well-known as the Architect of the Capitol. In 1845 the Unitarian church was one of the 34 houses of worship of many different denominational stripes in Washington.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic5.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic6.1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>This was quite a change from five years previously –- on November 28, 1853 — when the <em>Star</em> featured Presbyterian Reverend Smith’s Thanksgiving sermon on the front page. The week previous Job Corson and Sam’l Gedney advertised their swift steamer “Geo. Washington” on Thursday, Thanksgiving Day would take passengers to Mount Vernon and White House Pavilion (Virginia) with a “good band” providing military and cotillion music on the way and continue at the ballroom at the Pavilion.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic6.1.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic6.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>Christmas was a holiday with deep roots in the Catholic liturgical calendar. Puritan New Englanders declined to observe the day for many years. Elsewhere in the colonies and later in the states, it became traditional. Washingtonians observed Christmas.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic6.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic7.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>Washington has developed some of its own Thanksgiving holiday traditions. In the 1850s the Washington Monument Society tried to fundraise for construction of the monument. At the end of the 19th century and beginning of the 20th racing at Benning’s track was a popular pastime — first horses, then automobiles. The early 20th century saw the fierce rivalry of the Howard-Lincoln Thanksgiving football game.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic7.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic8.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>Automobile racing at Benning’s track, Thanksgiving 1916. <em>photo–Library of Congress Prints and Photographs Division.</em><a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic8.jpg"></a></p> 
+
+Link https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic9.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/11/25/what-once-was-1845-washingtons-first-thanksgiving/
+    in element <p>Turkeys for the Presidential table came from Rhode Island poulterer Horace Vose from 1873 to 1913. Public presentation of a turkey to the President seems to date back to the 1920s. Granting an official pardon to that turkey is a much more recent tradition. Surely to the surprise of many, the first President to pardon the White House Thanksgiving turkey was George H.W. Bush in 1989.<a href="https://web.archive.org/web/20190606115013/http://intowner.com/wp-content/uploads/2017/11/NOV-WhatOnceWas-pic9.jpg"></a></p> 
+
+Link javascript:HighlanderComments.doExternalLogout( 'wordpress' ); failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2020/08/23/white-house-rose-garden-restoration/#respond
+    in element <span class="comment-form-log-out">
+				( <a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log Out</a> / 
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
+			</span> 
+
+Link javascript:HighlanderComments.doExternalLogout( 'googleplus' ); failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2020/05/26/webinar-scout-101-dcras-new-consolidated-data-system/#respond
+    in element <span class="comment-form-log-out">
+				( <a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log Out</a> / 
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
+			</span> 
+
+Link javascript:HighlanderComments.doExternalLogout( 'twitter' ); failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2020/05/26/webinar-scout-101-dcras-new-consolidated-data-system/#respond
+    in element <span class="comment-form-log-out">
+				( <a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log Out</a> / 
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
+			</span> 
+
+Link javascript:HighlanderComments.doExternalLogout( 'facebook' ); failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2020/05/26/webinar-scout-101-dcras-new-consolidated-data-system/#respond
+    in element <span class="comment-form-log-out">
+				( <a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log Out</a> / 
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
+			</span> 
+
+Link javascript:HighlanderComments.cancelExternalWindow(); failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2020/05/26/webinar-scout-101-dcras-new-consolidated-data-system/#respond
+    in element <div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div> 
+
+Link http://intowner.com/2018/04/29/news-for-the-community-origins-of-washingtons-neighborhood-newspaper-tradition/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/04/30/news-for-the-community-origins-of-washingtons-neighborhood-newspaper-tradition/
+    in element <p><a href="http://intowner.com/2018/04/29/news-for-the-community-origins-of-washingtons-neighborhood-newspaper-tradition/" rel="noopener" target="_blank">http://intowner.com/2018/04/29/news-for-the-community-origins-of-washingtons-neighborhood-newspaper-tradition/</a></p> 
+
+Link https://uschs.org/gift-shop/uschs-publication-creating-capitol-hill/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/07/11/pamela-scott-interview-with-a-washington-dc-history-author-creating-capitol-hill-place-proprietors-and-people/
+    in element <blockquote class="wp-embedded-content" data-secret="yfsl9kpglw"><a href="https://uschs.org/gift-shop/uschs-publication-creating-capitol-hill/">USCHS Publication: Creating Capitol Hill</a></blockquote> 
+
+Link http://www.intowner.com/what-once-was/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/02/06/making-washingtons-swampoodle-irish-neighborhood-in-the-tiber-valley/
+    in element <span class="boxrightlink"><a href="http://www.intowner.com/what-once-was/">Click this to find our archive of What Once Was articles.</a></span> 
+
+Link http://intowner.com/2018/02/04/making-washingtons-swampoodle-irish-neighborhood-in-the-tiber-valley/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/02/06/making-washingtons-swampoodle-irish-neighborhood-in-the-tiber-valley/
+    in element <p>For complete column CLICK: <a href="http://intowner.com/2018/02/04/making-washingtons-swampoodle-irish-neighborhood-in-the-tiber-valley/" rel="noopener" target="_blank">http://intowner.com/2018/02/04/making-washingtons-swampoodle-irish-neighborhood-in-the-tiber-valley/</a></p> 
+
+Link http://www.saintpatrickdc.org/ourhistory.shtml failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/14/irish-washington-dc-2018-revised-update/
+    in element <li>MacGregor, Morris. A Parish for the Federal City: St. Patrick’s in Washington, 1794-1994. 1994.<br/>
+<a href="http://www.saintpatrickdc.org/ourhistory.shtml" title="excerpt">excerpt</a></li> 
+
+Link Gonzaga College (Washington, D.C.) Registers. failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2018/03/14/irish-washington-dc-2018-revised-update/
+    in element <li>Gonzaga College (Gonzaga College and High School). Catalog….1860s-1930s<br/>
+<span style="text-decoration:line-through;"> </span> <a href="Gonzaga College (Washington, D.C.) Registers." rel="noopener" target="_blank">locations</a></li> 
+
+Link http://www.theusgenweb.org/dcgenweb/history/irish.shtml failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/14/irish-washington-dc-2018-revised-update/
+    in element <p>Brookland<br/>
+Foggy Bottom<br/>
+<a href="https://matthewbgilmore.wordpress.com/2018/02/06/making-washingtons-swampoodle-irish-neighborhood-in-the-tiber-valley/">Swampoodle</a><br/>
+See Irish Neighborhoods in Old Washington <a href="http://www.theusgenweb.org/dcgenweb/history/irish.shtml" title="here">here</a>: for more information <a href="http://www.theusgenweb.org/dcgenweb/history/irish.shtml" rel="nofollow">http://www.theusgenweb.org/dcgenweb/history/irish.shtml</a></p> 
+
+Link https://www.whitehousehistory.org/honoring-the-legacy-of-james-hoban-irish-born-architect-of-the-white-house failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/14/irish-washington-dc-2018-revised-update/
+    in element <p>Robert Brent<br/>
+Patrick Buchanan<br/>
+Thomas Carbery<br/>
+Thomas Corcoran<br/>
+James Reed Dermot<br/>
+James Hoban <a href="https://www.whitehousehistory.org/honoring-the-legacy-of-james-hoban-irish-born-architect-of-the-white-house" rel="noopener" target="_blank">https://www.whitehousehistory.org/honoring-the-legacy-of-james-hoban-irish-born-architect-of-the-white-house</a><br/>
+Tom Kelly<br/>
+Jeremiah O’Leary<br/>
+David Baillie Warden</p> 
+
+Link http://dumbartonhouse.org/event/welcome-pierre failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/07/welcome-pierre-this-friday-march-9-2018/
+    in element <p> <br/>
+Dumbarton House<br/>
+202-337-2288<br/>
+Events@dumbartonhouse.org<br/>
+<a href="http://dumbartonhouse.org/event/welcome-pierre" rel="nofollow">http://dumbartonhouse.org/event/welcome-pierre</a></p> 
+
+Link http://intowner.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience/
+    in element <p>Read the complete article here in the <em>Intowner</em>: <a href="http://intowner.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience/">http://intowner.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience/</a></p> 
+
+Link http://intowner.com/2017/03/14/georgetown-becomes-colonial-reborn-at-200-georgetowns-1951-bicentenary-celebration/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/03/22/georgetown-becomes-colonial-reborn-at-200-georgetowns-1951-bicentenary-celebration/
+    in element <p class="dateline"><a href="http://intowner.com/2017/03/14/georgetown-becomes-colonial-reborn-at-200-georgetowns-1951-bicentenary-celebration/" target="_blank">http://intowner.com/2017/03/14/georgetown-becomes-colonial-reborn-at-200-georgetowns-1951-bicentenary-celebration/</a></p> 
+
+Link http://intowner.com/2016/11/19/the-liquor-license-did-it-georgetown-as-a-separate-and-independent-city-by-law-is-hereby-abolished/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/03/22/georgetown-becomes-colonial-reborn-at-200-georgetowns-1951-bicentenary-celebration/
+    in element <p>Georgetown, founded in 1751, had been incorporated into the District of Columbia when the federal capital moved to the Potomac in November of 1800. In 1871, Georgetown had lost nearly all of its separate legal existence with the creation of the District’s new territorial government. The very use of the name was contentious for years and the area was redubbed West Washington. A provision in the 1871 act allowed Georgetown’s ordinances to continue in effect, an anomalous situation legally rectified with the total <a href="http://intowner.com/2016/11/19/the-liquor-license-did-it-georgetown-as-a-separate-and-independent-city-by-law-is-hereby-abolished/">abolition of Georgetown</a> in 1895.</p> 
+
+Link http://intowner.com/2017/02/02/sesqui-what-truman-throws-a-party-for-washington failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/03/22/georgetown-becomes-colonial-reborn-at-200-georgetowns-1951-bicentenary-celebration/
+    in element <p>By April of 1951 the “colonial” cast to the celebration of Georgetown’s “bicentenary” (the term they preferred over “bicentennial”) was inevitable. Part of the Washington DC origin story would have been familiar to anyone who had attended the National Capital Sesquicentennial’s pageant “<a href="http://intowner.com/2017/02/02/sesqui-what-truman-throws-a-party-for-washington">Faith of our Fathers</a>” performance which portrayed the early history of Washington and the District of Columbia.</p> 
+
+Link https://intowner.com/2020/01/05/pneumatic-tubes-technological-innovation-and-politics-in-boss-shepherd-era-washington-dc/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/01/06/pneumatic-tubes-technological-innovation-and-politics-in-shepherd-era-washington-dc/
+    in element <p><a href="https://intowner.com/2020/01/05/pneumatic-tubes-technological-innovation-and-politics-in-boss-shepherd-era-washington-dc/" rel="noopener" target="_blank">Pneumatic tubes: technological innovation and politics in Shepherd-era Washington DC</a></p> 
+
+Link https://nondoc.com/2019/09/27/oklahoma-avenue-mysterious-history/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/10/04/non-mysterious-washington-dc-street-names-naming/
+    in element <p>Recently published articles make much of the <strong><em>mystery</em></strong> behind the naming of Oklahoma Avenue: <a href="https://www.enidnews.com/news/state/oklahoma-avenue-thrives-despite-mysterious-history/article_07675fc8-7a66-5744-ac15-763d2d2b6d33.html">https://www.enidnews.com/news/state/oklahoma-avenue-thrives-despite-mysterious-history/article_07675fc8-7a66-5744-ac15-763d2d2b6d33.html</a> and  <a href="https://nondoc.com/2019/09/27/oklahoma-avenue-mysterious-history/">https://nondoc.com/2019/09/27/oklahoma-avenue-mysterious-history/</a> </p> 
+
+Link http://bygonebrookland.com/on-this-spot-a-home-for.html failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2019/10/04/non-mysterious-washington-dc-street-names-naming/
+    in element <p>This 1914 map (excepted above):  <a href="https://www.loc.gov/resource/g3850.ct004507/?r=0.599,0.168,0.214,0.106,0">https://www.loc.gov/resource/g3850.ct004507/?r=0.599,0.16</a><a aria-label="8,0.214,0.106,0 (opens in a new tab)" href="https://www.loc.gov/resource/g3850.ct004507/?r=0.599,0.168,0.214,0.106,0" rel="noreferrer noopener" target="_blank">8,0.214,0.106,0</a>  shows a massive Oklahoma Avenue (proposed) angling from C St NE in Rosedale and Isherwood–all the way out to what is now Fort Lincoln (formerly the U.S. Reform School–nice blog post by Robert Malesky here: <a href="http://bygonebrookland.com/on-this-spot-a-home-for.html">http://bygonebrookland.com/on-this-spot-a-home-for.html</a> ). </p> 
+
+Link http://intowner.com/2018/03/21/news-for-the-capital-and-the-nation-politics-and-washingtons-daily-newspapers/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/22/news-for-the-capital-and-the-nation-politics-and-washingtons-daily-newspapers/
+    in element <p><strong>Full column here:</strong> <a href="http://intowner.com/2018/03/21/news-for-the-capital-and-the-nation-politics-and-washingtons-daily-newspapers/" rel="noopener" target="_blank">http://intowner.com/2018/03/21/news-for-the-capital-and-the-nation-politics-and-washingtons-daily-newspapers/</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2018/03/MAR-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/22/news-for-the-capital-and-the-nation-politics-and-washingtons-daily-newspapers/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2018/03/MAR-WhatOnceWas-pic1.jpg" rel="lightbox[12078]"><img alt="Masthead of the first issue of Samuel Harrison Smith's National Intelligencer. (image--Library of Congress.)" class="wp-image-12082" height="123" loading="lazy" src="https://i2.wp.com/intowner.com/wp-content/uploads/2018/03/MAR-WhatOnceWas-pic1-300x74.jpg" width="498"/></a></p> 
+
+Link http://intowner.com/wp-content/uploads/2018/03/MAR-WhatOnceWas-pic2.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/03/22/news-for-the-capital-and-the-nation-politics-and-washingtons-daily-newspapers/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2018/03/MAR-WhatOnceWas-pic2.jpg" rel="lightbox[12078]"><img alt="Portrait of Samuel Harrison Smith, from Margaret Bayard Smith's &quot;The First Forty Years of Washington Society. . . .&quot; (see footnote #2.)" class="wp-image-12083" height="367" loading="lazy" src="https://i0.wp.com/intowner.com/wp-content/uploads/2018/03/MAR-WhatOnceWas-pic2-232x300.jpg" width="284"/></a></p> 
+
+Link http://intowner.com/2017/11/19/1845-washingtons-first-thanksgiving/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/11/20/1845-washingtons-first-thanksgiving/
+    in element <strong> <a href="http://intowner.com/2017/11/19/1845-washingtons-first-thanksgiving/" rel="noopener" target="_blank">http://intowner.com/2017/11/19/1845-washingtons-first-thanksgiving/</a></strong> 
+
+Link https://intowner.com/2020/03/24/food-on-the-streets-street-vending-in-the-district-of-columbia/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/03/27/food-on-the-streets-street-vending-in-the-district-of-columbia/
+    in element <p><a href="https://intowner.com/2020/03/24/food-on-the-streets-street-vending-in-the-district-of-columbia/" rel="noopener" target="_blank">https://intowner.com/2020/03/24/food-on-the-streets-street-vending-in-the-district-of-columbia/</a></p> 
+
+Link https://www.ncpc.gov/project/mlklibrary/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/08/23/dc-archaeology-events-aug-sept-2016/
+    in element <p>District government is working on obtaining curation space so we can consolidate and manage the District’s archaeological collections in in a location that meets archival standards. The DC Public Library is adding a new floor onto the MLK, Jr. main library building, and we are negotiating for floor space in the new archival storage area. Because the project entails adverse effects to a National Register-listed landmark building, the library has agreed in principle. There is an environmental assessment out for public comment that includes a draft Memorandum of Agreement with language for providing that space. If you don’t mind and you have the time, <u>please</u> review it and let them know what you think about it. This is something we’ve been working towards for years, and it’s extremely exciting for us to finally make some headway. <a href="https://www.ncpc.gov/project/mlklibrary/">https://www.ncpc.gov/project/mlklibrary/</a></p> 
+
+Link tel:202.442.8836 failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2016/08/23/dc-archaeology-events-aug-sept-2016/
+    in element <p><a href="tel:202.442.8836">202.442.8836</a></p> 
+
+Link http://email.mg1.substack.com/c/eJwlUEluwzAMfE10syHJjpeDDmmdoodeij7AkCU6UaMNWmq4r6_cAARBzhAYzgie4ObCzhLEhHKEMCvJkGS4p6JfkIrzGgAMV5ohnxetBE_K2eOKDLgl6M56vo6kwVh0K6Ftv_CFwsplQ8u2tB0g72KaeZYKrADmrN5nz5VEmt1T8vHUXE70rdS2bTU3_NfZWjhTgHfu_V59QfhRAqoPF2R1WUN5wVYXA8_hM_OQIMVyLn1peOhxOw59j5FiFJORUNKQc4PpWJP6fB27l4lc36bX6Yqn86nF5kbqmJeYuHgcuiiwh3bBgtaFvW25BpkP73MhTbYq7TNYvmiQLIUMKD3D-3eZdg_MwhY1pAThCR5Zjd3QNajoSFfCtMzkqMS3y8FyraL5AztHhPk failed, response <Response [503]>
+    on page https://matthewbgilmore.wordpress.com/2020/01/22/kip-lornell-interview-with-a-washington-dc-history-author-capital-bluegrass-hillbilly-music-meets-washington-d-c/
+    in element <em><a href="http://email.mg1.substack.com/c/eJwlUEluwzAMfE10syHJjpeDDmmdoodeij7AkCU6UaMNWmq4r6_cAARBzhAYzgie4ObCzhLEhHKEMCvJkGS4p6JfkIrzGgAMV5ohnxetBE_K2eOKDLgl6M56vo6kwVh0K6Ftv_CFwsplQ8u2tB0g72KaeZYKrADmrN5nz5VEmt1T8vHUXE70rdS2bTU3_NfZWjhTgHfu_V59QfhRAqoPF2R1WUN5wVYXA8_hM_OQIMVyLn1peOhxOw59j5FiFJORUNKQc4PpWJP6fB27l4lc36bX6Yqn86nF5kbqmJeYuHgcuiiwh3bBgtaFvW25BpkP73MhTbYq7TNYvmiQLIUMKD3D-3eZdg_MwhY1pAThCR5Zjd3QNajoSFfCtMzkqMS3y8FyraL5AztHhPk" rel="noopener" target="_blank">Happy in the Service of the Lord: African American Gospel Quartets in Memphis</a></em> 
+
+Link http://www.atlasobscura.com/obscuraday2015 failed, response <Response [500]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <p><a href="http://www.atlasobscura.com/obscuraday2015">http://www.atlasobscura.com/obscuraday2015</a></p> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-protecting-the-capitol failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <h3><a href="http://www.atlasobscura.com/events/obscura-day-2015-protecting-the-capitol">Protecting the Capitol</a></h3> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-protecting-the-capitol/atlasobscura.com failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <p>After this journey, we will be joined by <a href="http://www.atlasobscura.com/events/obscura-day-2015-protecting-the-capitol/atlasobscura.com">Atlas Obscura</a>‘s CEO and host of the popular <a href="http://www.slate.com/articles/podcasts/gabfest.html">Slate Political Gabfest podcast </a>David Plotz to help us discover Fort DeRussy, conveniently located just across the way.</p> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-sinners-scoundrels failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <h3><a href="http://www.atlasobscura.com/events/obscura-day-2015-sinners-scoundrels">Sinners &amp; Scoundrels</a></h3> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-under-the-district failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <h3><a href="http://www.atlasobscura.com/events/obscura-day-2015-under-the-district">Under the District</a></h3> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-the-secrets-of-the-society-of-cincinnati failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <h3><a href="http://www.atlasobscura.com/events/obscura-day-2015-the-secrets-of-the-society-of-cincinnati">The Secrets of the Society of Cincinnati</a></h3> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-save-our-seminary failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <h3><a href="http://www.atlasobscura.com/events/obscura-day-2015-save-our-seminary">Save Our Seminary</a></h3> 
+
+Link http://www.atlasobscura.com/events/obscura-day-2015-hands-on-at-the-national-firearms-museum failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <h3><a href="http://www.atlasobscura.com/events/obscura-day-2015-hands-on-at-the-national-firearms-museum">Hands On at the National Firearms Museum</a></h3> 
+
+Link http://www.nramuseum.org/ failed, response <Response [460]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/21/washington-dc-obscura-day-events-may-30-2015/
+    in element <p><strong>DETAILS:<br/>
+</strong>Saturday, May 30; 9am – 10am<br/>
+Cost: $10<br/>
+<a href="http://www.nramuseum.org/">National Firearms Museum</a><br/>
+NRA Headquarters<br/>
+11250 Waples Mill Road<br/>
+Fairfax, VA 22030</p> 
+
+Link http://intowner.com/2016/03/20/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/03/22/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal/
+    in element <p><a href="http://intowner.com/2016/03/20/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal/" target="_blank">http://intowner.com/2016/03/20/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal/</a></p> 
+
+Link http://www.alexandershepherd.net failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2016/03/22/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal/#print
+    in element <div class="comment-meta">
+<a class="url" href="http://www.alexandershepherd.net" rel="external nofollow ugc">John P. Richardson</a> <div class="comment-date">March 23, 2016</div>
+<img alt="" class="avatar avatar-55" height="55" src="https://2.gravatar.com/avatar/b1ca6e3968aee2eec412f6f6d3bfa527?s=55&amp;d=identicon&amp;r=G" width="55"/> </div> 
+
+Link http://intowner.com/2017/09/01/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/09/05/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington/
+    in element <p>COMPLETE COLUMN HERE: <a href="http://intowner.com/2017/09/01/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington/" rel="noopener" target="_blank">http://intowner.com/2017/09/01/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington/</a></p> 
+
+Link http://intowner.com/2016/03/20/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/09/05/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington/
+    in element <p>A charming term of art of the day for air conditioning was “manufactured weather.” Manufacturing the weather for Washington was a long-time concern, as Washington was a southern town with an average high temperature in July of over 80 degrees. Peter Charles L’Enfant’s plan set Washington City across the Tiber Creek, imagining it as suitable for transportation when transformed into a canal. The canal was developed, as <a href="http://intowner.com/2016/03/20/high-handed-usurpation-and-outrage-the-end-of-washington-city-canal">Washington City Canal</a> which emptied into the Potomac just west of the Washington Monument.</p> 
+
+Link http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/09/05/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington/
+    in element <p>The resulting <a href="http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park">tidal flats</a> were a health hazard for adjacent parts of Washington’s west end, including the Naval Observatory, and particularly the White House. Presidents routinely retreated northward to the Soldiers’ Home or other high grounds to escape summer heat and miasmatic vapors, smells, and mosquitoes.</p> 
+
+Link http://intowner.com/2017/09/01/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/23/memories-fade-washingtons-most-memorialized-and-least-known-president/#comments
+    in element <p>The end came on September on 19th in Elberon, New Jersey, after a wretched summer of <a href="http://intowner.com/2017/09/01/its-not-the-heat-its-the-humidity-ninety-years-of-manufactured-weather-in-washington">suffering in the White House</a>. He’d been moved, at his insistence, when it was clear he could never recover. His body was brought back to the capital for lying-in-state. Garfield was Capitol only the sixth man to lie in state in the rotunda. This, the second presidential assassination, was in some ways more shocking than the first – Guiteau, seemingly merely motivated by office-seeking but actually delusional, unlike Booth who was seeking revenge for the South’s loss in the Civil War.</p> 
+
+Link http://intowner.com/2017/10/21/memories-fade-washingtons-most-memorialized-and-least-known-president/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/23/memories-fade-washingtons-most-memorialized-and-least-known-president/#comments
+    in element <p>Calls to create a memorial were immediate.<br/>
+Complete article here: <a href="http://intowner.com/2017/10/21/memories-fade-washingtons-most-memorialized-and-least-known-president/" rel="noopener" target="_blank">http://intowner.com/2017/10/21/memories-fade-washingtons-most-memorialized-and-least-known-president/</a><strong>  </strong></p> 
+
+Link http://intowner.com/2018/07/31/where-did-washington-dcs-1950-population-of-800000-live/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/08/06/where-did-washington-dcs-1950-population-of-800000-live/
+    in element <p>COMPLETE COLUMN here: <a href="http://intowner.com/2018/07/31/where-did-washington-dcs-1950-population-of-800000-live/" rel="noopener" target="_blank">intowner.com/2018/07/31/where-did-washington-dcs-1950-population-of-800000-live/</a></p> 
+
+Link http://intowner.com/2019/02/21/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/02/22/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/
+    in element <p>
+
+COMPLETE COLUMN HERE: <a href="http://intowner.com/2019/02/21/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/" rel="noreferrer noopener" target="_blank">http://intowner.com/2019/02/21/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/﻿</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/02/22/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/
+    in element <figure class="wp-block-image"><a href="http://intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic1.jpg"><img alt="" class="wp-image-13744" src="https://i0.wp.com/intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic1-198x300.jpg"/></a><figcaption> <br/>Apr. 27, 1918 <em>Washington Herald</em>article on pending housing legislation in Congress. </figcaption></figure> 
+
+Link http://intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic2.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/02/22/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/
+    in element <figure class="wp-block-image"><a href="http://intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic2.jpg"><img alt="" class="wp-image-13745" src="https://i0.wp.com/intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic2-233x300.jpg"/></a><figcaption> <br/>Undated image of Henry A. Barnhart. <em>photo–Henry A. Barnhart collection, Rare Books &amp; Manuscript Div,, Indiana State Library</em>. </figcaption></figure> 
+
+Link http://intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic3.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/02/22/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/
+    in element <figure class="wp-block-image"><a href="http://intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic3.jpg"><img alt="" class="wp-image-13746" src="https://i0.wp.com/intowner.com/wp-content/uploads/2019/02/JAN-WhatOnceWas-pic3-300x234.jpg"/></a><figcaption> <br/>Apr. 1, 1918 <em>Evening Star “May Commandeer Houses.”﻿</em> </figcaption></figure> 
+
+Link http://intowner.com/2019/02/21/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/﻿ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/category/columbia-heights/
+    in element <p>What Once Was Commandeered Housing in WWI Washington, DC: A Federal Landlording Nightmare By Matthew B. Gilmore COMPLETE COLUMN HERE: <a href="http://intowner.com/2019/02/21/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/﻿" rel="nofollow">http://intowner.com/2019/02/21/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/﻿</a> A startling (if cryptic) heading appears in the April … <a class="read-more" href="https://matthewbgilmore.wordpress.com/2019/02/22/commandeered-housing-in-wwi-washington-dc-a-federal-landlording-nightmare/">Continue reading <span class="meta-nav">→</span></a></p> 
+
+Link http://dccouncil.us/files/user_uploads/budget_responses/2017-2018_OS_Oversight_Performance_Response_2.9.18_Final.pdf failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/06/18/update-on-the-district-of-columbias-archives-and-public-records-office-spring-2018/
+    in element <p>Oversight responses <a href="http://dccouncil.us/files/user_uploads/budget_responses/2017-2018_OS_Oversight_Performance_Response_2.9.18_Final.pdf" rel="noopener" target="_blank">http://dccouncil.us/files/user_uploads/budget_responses/2017-2018_OS_Oversight_Performance_Response_2.9.18_Final.pdf</a></p> 
+
+Link http://march.rutgers.edu/2015/07/struggling-to-preserve-washington-dcs-archives-and-public-records-office/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/06/18/update-on-the-district-of-columbias-archives-and-public-records-office-spring-2018/
+    in element <p><strong>March 2015 post: </strong><a href="http://march.rutgers.edu/2015/07/struggling-to-preserve-washington-dcs-archives-and-public-records-office/" rel="noopener" target="_blank">http://march.rutgers.edu/2015/07/struggling-to-preserve-washington-dcs-archives-and-public-records-office/</a></p> 
+
+Link http://intowner.com/2017/08/03/national-archives-and-district-of-columbia-records/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/02/national-archives-dc-court-records-followup/
+    in element <h3><a href="http://intowner.com/2017/08/03/national-archives-and-district-of-columbia-records/" rel="noopener" target="_blank">http://intowner.com/2017/08/03/national-archives-and-district-of-columbia-records/</a></h3> 
+
+Link https://www.archives.gov/research/guide-fed-records/groups/351.html&gt failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/02/national-archives-dc-court-records-followup/
+    in element <p>The National Archives, our nation’s record keeper, holds millions of <a href="https://www.archives.gov/research/guide-fed-records/groups/351.html">DC Government</a>&lt;<a href="https://www.archives.gov/research/guide-fed-records/groups/351.html&amp;gt" rel="nofollow">https://www.archives.gov/research/guide-fed-records/groups/351.html&amp;gt</a>; and <a href="https://www.archives.gov/research/district-of-columbia">DC-related</a> including tens of thousands of photographs, reels of film, maps, artifacts, and more.  These holdings include records on immigration into Alexandria and Georgetown, slavery in DC, congressional and district court records, military service during the Civil War, and census records. We not only hold these records, we provide public access to them in person at the National Archives Building to anyone age 14 and older with a photo ID.</p> 
+
+Link http://intowner.com/2017/08/03/national-archives-and-district-of-columbia-records failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/02/national-archives-dc-court-records-followup/
+    in element <p>Thus, we were surprised to read the August 11th InTowner article “<a href="http://intowner.com/2017/08/03/national-archives-and-district-of-columbia-records">National Archives and District of Columbia Records</a>” incorrectly stating that public access to these important records would be limited. This is not correct.</p> 
+
+Link http://intowner.com/2017/09/07/highlights-of-the-archives-extensive-district-of-columbia-related-holdings-available-in-dc failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/02/national-archives-dc-court-records-followup/
+    in element <p>[Editor’s Note: We were also provided with a listing of what the writer characterized as “highlights of our extensive <a href="http://intowner.com/2017/09/07/highlights-of-the-archives-extensive-district-of-columbia-related-holdings-available-in-dc">DC-related holdings</a> here in DC.”]</p> 
+
+Link http://intowner.com/wp-content/uploads/2017/06/InTowner-Jun-2017.pdf failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/06/16/plans-for-major-rehab-enhanced-use-of-historic-carnegie-library-building-now-moving-forward/
+    in element <em><a href="http://intowner.com/wp-content/uploads/2017/06/InTowner-Jun-2017.pdf">June 2017 issue pdf</a></em> 
+
+Link http://thesitehub.com/InTowner_archive/2003September.pdf failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/06/16/plans-for-major-rehab-enhanced-use-of-historic-carnegie-library-building-now-moving-forward/
+    in element <p>Unfortunately, despite high hopes that the museum would become a much visited off-the-Mall tourist attraction in addition to being of huge interest to DC residents, the venture was short-lived and, <a href="http://www.washingtonpost.com/wp-dyn/articles/A18694-2004Oct8.html">as reported at the time</a> by the <em>Washington Post</em>, closed after less than two years, leaving only the library and Society offices and a couple of second floor galleries for temporary exhibits and occasional lectures and special events. (Possibly the ultimate demise of the ambitious museum undertaking was <a href="http://thesitehub.com/InTowner_archive/2003September.pdf">foretold by a commentary</a> that was published on page 16 of the September 2003 issue of <em>The InTowner</em>.)</p> 
+
+Link http://intowner.com/2014/07/14/historic-carnegie-library-redevelopment-planning-proceeding failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/06/16/plans-for-major-rehab-enhanced-use-of-historic-carnegie-library-building-now-moving-forward/
+    in element <p>Since 2005, the building has been the subject of various proposals, including a music museum and relocation of the International Spy Museum; this proposal got so far as to be <a href="http://intowner.com/2014/07/14/historic-carnegie-library-redevelopment-planning-proceeding">considered by the NCPC</a>, but never materialized.</p> 
+
+Link http://intowner.com/2014/01/15/the-future-of-carnegie-library-what-might-be failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/06/16/plans-for-major-rehab-enhanced-use-of-historic-carnegie-library-building-now-moving-forward/
+    in element <p>[Editor’s Note: Detailed information about the Spy Museum’s proposed changes to the historic building to accommodate its needs, with illustrations, was provided in Stephen A. Hansen’s January <a href="http://intowner.com/2014/01/15/the-future-of-carnegie-library-what-might-be">2014 <em>InTowner</em> article</a>, “The Future of Carnegie Library: What Might Be.”]</p> 
+
+Link http://intowner.com/wp-content/uploads/2016/06/JUN-WhatOnceWas-pic2.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/06/27/the-bridge-a-traffic-jam-built-arlington-memorial-bridge/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/06/JUN-WhatOnceWas-pic2.jpg" rel="lightbox[9739]"><img alt="Coffin of the Unknown Soldier being brought down steps of the U.S. Capitol, where horse-drawn caisson awaits; military personnel stand at attention. photo--National Photo Company Collection, Library of Congress." class="size-medium wp-image-9743" height="242" loading="lazy" src="https://i0.wp.com/intowner.com/wp-content/uploads/2016/06/JUN-WhatOnceWas-pic2-300x242.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/06/JUN-WhatOnceWas-pic3.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/06/27/the-bridge-a-traffic-jam-built-arlington-memorial-bridge/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/06/JUN-WhatOnceWas-pic3.jpg" rel="lightbox[9739]"><img alt="President Harding speaking at the Arlington National Cemetery Amphitheater during the dedication of the Tomb of the Unknown Soldier. National Photo Company Collection, Library of Congress." class="size-medium wp-image-9744" height="300" loading="lazy" src="https://i1.wp.com/intowner.com/wp-content/uploads/2016/06/JUN-WhatOnceWas-pic3-243x300.jpg" width="243"/></a></p> 
+
+Link http://intowner.com/2016/06/24/the-bridge-a-traffic-jam-built-arlington-memorial-bridge/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/06/27/the-bridge-a-traffic-jam-built-arlington-memorial-bridge/
+    in element <strong><a href="http://intowner.com/2016/06/24/the-bridge-a-traffic-jam-built-arlington-memorial-bridge/" target="_blank">Arlington Memorial Bridge</a></strong> 
+
+Link http://www.dcwriters.org failed, response <Response [502]>
+    on page https://matthewbgilmore.wordpress.com/2018/12/11/kim-roberts-interview-with-a-d-c-website-creator-dc-writers-homes/
+    in element <p><em>DC Writers’ Homes</em> documents the residences of literary authors who lived in Washington, DC from the city’s founding in 1800 through the present. You can find us online at <a href="http://www.dcwriters.org" rel="noopener" target="_blank">http://www.dcwriters.org</a>.</p> 
+
+Link https://www.dcbythebook.org/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2018/12/11/kim-roberts-interview-with-a-d-c-website-creator-dc-writers-homes/
+    in element <p>Not really. There are some other mapping projects in DC we admire—including a “Literary Map of Metropolitan Washington, DC” that Martha Hopkins made for the Washington Chapter of the Women’s National Book Association almost twenty years ago. That map, which was never digitized, includes 36 authors. The DC Public Library created an online map called “<a href="https://www.dcbythebook.org/" rel="noopener" target="_blank">DC By the Book</a>” showing locations where books of fiction are set. There are literary maps of <a href="http://www.nyslittree.org/" rel="noopener" target="_blank">New York State</a> and the <a href="http://xroads.virginia.edu/~ma04/kane/thesis/map.htm" rel="noopener" target="_blank">Commonwealth of Virginia</a>. But I don’t know of anyone else who is researching a single city with as much depth as we are. And, while we want to document the well-known writers who lived here, we are just as excited to find residences of writers who are lesser known—which also makes our site unique.</p> 
+
+Link http://arikelman.org/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2018/09/20/adam-costanzo-interview-with-a-washington-dc-history-author/
+    in element <p>As this book began life as a dissertation, it seems appropriate to give a nod the influence of my advisor, <a href="http://history.virginia.edu/people/profile/ast8f">Alan Taylor</a> and the two other members of my committee, <a href="http://history.ucdavis.edu/people/eoconnor">Ellen Hartigan-O’Connor</a> <a href="http://arikelman.org/">and Ari Kelman</a>. Their influence on my approach the subject and on my writing really can’t be understated.</p> 
+
+Link https://www.regnery.com/books/star-spangled-scandal-sex-murder-and-the-trial-that-changed-america/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/07/19/chris-derose-interview-with-a-washington-dc-history-author-star-spangled-scandal-sex-murder-and-the-trial-that-changed-america/
+    in element <figcaption><br/> <a href="https://www.regnery.com/books/star-spangled-scandal-sex-murder-and-the-trial-that-changed-america/">https://www.regnery.com/books/star-spangled-scandal-sex-murder-and-the-trial-that-changed-america/</a> <br/></figcaption> 
+
+Link http://www.kramers.com/index.html failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/06/11/independent-non-chain-bookstores-of-washington-dc-2019/
+    in element <li><a href="http://www.kramers.com/index.html" rel="noreferrer noopener" target="_blank">http://www.kramers.com/index.html</a></li> 
+
+Link http://www.capitolhillbooks-dc.com/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/06/11/independent-non-chain-bookstores-of-washington-dc-2019/
+    in element <li><a href="http://www.capitolhillbooks-dc.com/" rel="noreferrer noopener" target="_blank">http://www.capitolhillbooks-dc.com/</a></li> 
+
+Link http://www.secondstorybooks.com/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/06/11/independent-non-chain-bookstores-of-washington-dc-2019/
+    in element <li><a href="http://www.secondstorybooks.com/" rel="noreferrer noopener" target="_blank">http://www.secondstorybooks.com/</a></li> 
+
+Link http://www.bartlebysbooks.com/shop/bartleby/index.html failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/06/11/independent-non-chain-bookstores-of-washington-dc-2019/
+    in element <li><a href="http://www.bartlebysbooks.com/shop/bartleby/index.html">http://www.bartlebysbooks.com/shop/bartleby/index.html</a></li> 
+
+Link https://www.bartlebysbooks.com failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/06/11/independent-non-chain-bookstores-of-washington-dc-2019/
+    in element <li> <a aria-label="https://www.bartlebysbooks.com (opens in a new tab)" href="https://www.bartlebysbooks.com" rel="noreferrer noopener" target="_blank">https://www.bartlebysbooks.com</a> </li> 
+
+Link http://intowner.com/2018/10/01/washingtons-lost-month-the-1918-19-spanish-influenza-epidemic-in-the-district-of-columbia/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2020/03/27/replay-washingtons-lost-month-the-1918-19-spanish-influenza-epidemic-in-the-district-of-columbia/
+    in element <p>[CLICK HERE for complete article: <a href="http://intowner.com/2018/10/01/washingtons-lost-month-the-1918-19-spanish-influenza-epidemic-in-the-district-of-columbia/" rel="noopener" target="_blank">http://intowner.com/2018/10/01/washingtons-lost-month-the-1918-19-spanish-influenza-epidemic-in-the-district-of-columbia/</a> ]</p> 
+
+Link http://intowner.com/2016/08/28/new-yorkers-transformed-how-washingtonians-live-washingtons-19th-century-apartment-revolution/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/08/30/new-yorkers-transform-how-washingtonians-live-washingtons-19th-century-apartment-revolution/
+    in element <p>CLICK HERE FOR COMPLETE ARTICLE: <a href="http://intowner.com/2016/08/28/new-yorkers-transformed-how-washingtonians-live-washingtons-19th-century-apartment-revolution/" target="_blank">http://intowner.com/2016/08/28/new-yorkers-transformed-how-washingtonians-live-washingtons-19th-century-apartment-revolution/</a></p> 
+
+Link http://www.pw.org/literary_events/tom_lewis_washington failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/11/29/reading-and-signing-washington-a-history-of-our-national-city-by-tom-lewis-dec-2-2015-7-pm/
+    in element <p><a href="http://www.pw.org/literary_events/tom_lewis_washington" rel="nofollow">http://www.pw.org/literary_events/tom_lewis_washington</a></p> 
+
+Link https://dcra.dc.gov/page/surveyor-documents-surdocs failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/01/02/hopkins-real-estate-maps-1887-and-later-offline-at-dcpls-digdc-website-dcra-surdocs-alternative/
+    in element <p><a href="https://dcra.dc.gov/page/surveyor-documents-surdocs" rel="nofollow">https://dcra.dc.gov/page/surveyor-documents-surdocs</a></p> 
+
+Link http://www.jstor.org/stable/40067083 failed, response <Response [420]>
+    on page https://matthewbgilmore.wordpress.com/2015/08/17/washington-dc-house-history-resources/
+    in element <p><em>Washington City, Its Founding and Development</em><br/>
+Author(s): Frederick L. Fishback<br/>
+Source: Records of the Columbia Historical Society, Washington, D.C., Vol. 20 (1917), pp. 194-224<br/>
+Published by: Historical Society of Washington, D.C.<br/>
+Stable URL: <a href="http://www.jstor.org/stable/40067083" rel="nofollow">link</a></p> 
+
+Link https://history.army.mil/books/Last_Salute/Index.htm failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2017/05/18/public-washington-dc-history-resources-library-of-congress-dc-city-directories-microfilm/#print
+    in element <p>I don’ see it listed in here: <a href="https://history.army.mil/books/Last_Salute/Index.htm" rel="nofollow ugc">https://history.army.mil/books/Last_Salute/Index.htm</a></p> 
+
+Link http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/09/22/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park/
+    in element <p>FOR COMPLETE ARTICLE CLICK: <a href="http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park/" target="_blank">http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park/</a></p> 
+
+Link http://smithdray1.net/historicallyspeaking/2010/2-16-10%20The%20Andrew%20Jackson%20Magnolia%20tree%20story.pdf failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2017/12/29/white-house-jackson-magnolia-history-resources/
+    in element <p><a href="http://smithdray1.net/historicallyspeaking/2010/2-16-10%20The%20Andrew%20Jackson%20Magnolia%20tree%20story.pdf" rel="noopener" target="_blank">http://smithdray1.net/historicallyspeaking/2010/2-16-10%20The%20Andrew%20Jackson%20Magnolia%20tree%20story.pdf</a><br/>
+originally published here: <a href="http://www.oakridger.com/article/20100216/NEWS/302169988" rel="nofollow">http://www.oakridger.com/article/20100216/NEWS/302169988</a>  A magnolia tree, Andrew Jackson and the $20 bill, By D. Ray Smith, Feb 16, 2010</p> 
+
+Link http://http//www.history.com/news/the-white-house-is-taking-down-the-188-year-old-jackson-magnolia failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2017/12/29/white-house-jackson-magnolia-history-resources/
+    in element <p>— some more recent information here: <a href="http://http//www.history.com/news/the-white-house-is-taking-down-the-188-year-old-jackson-magnolia" rel="nofollow">http://www.history.com/news/the-white-house-is-taking-down-the-188-year-old-jackson-magnolia</a></p> 
+
+Link http://intowner.com/2018/01/01/one-final-flutter-at-banning-the-end-of-horse-race-gambling-in-the-district-of-columbia/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/01/02/one-final-flutter-at-benning-the-end-of-horse-race-gambling-in-the-district-of-columbia/
+    in element <p>CLICK for complete article: <a href="http://intowner.com/2018/01/01/one-final-flutter-at-banning-the-end-of-horse-race-gambling-in-the-district-of-columbia/" rel="noopener" target="_blank">http://intowner.com/2018/01/01/one-final-flutter-at-banning-the-end-of-horse-race-gambling-in-the-district-of-columbia/</a></p> 
+
+Link https://www.tudorplace.org/article/reading-room-georgetown-and-the-federal-city/on-the-track-thomas-peter-henry-clay-and-the-duchess-of-marlborough/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/01/02/one-final-flutter-at-benning-the-end-of-horse-race-gambling-in-the-district-of-columbia/
+    in element <p>Georgetown and Washington society (up to the highest echelons) appreciated horse racing since before the founding of Washington — even presidents were involved in the racing scene, and John Quincy Adams was known to attend the races. President Andrew Jackson entered his horses under the name of his nephew A.J. Donelson when he raced them in Washington. Wendy Kail’s “On the Track — Thomas Peter, Henry Clay, and the Duchess of Marlborough” <a href="https://www.tudorplace.org/article/reading-room-georgetown-and-the-federal-city/on-the-track-thomas-peter-henry-clay-and-the-duchess-of-marlborough/">recounts early Georgetown horse racing</a>, starting in 1769. The first steeplechase in the United States took place in Washington in 1834, hosted by the Washington Jockey Club on October 19th.</p> 
+
+Link http://dhcd.dc.gov/release/district-columbia-economy-adds-3800-jobs-april#.VWalbLP_RjU.wordpress failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/28/httpdhcd-dc-govreleasedistrict-columbia-economy-adds-3800-jobs-april/
+    in element <p><a href="http://dhcd.dc.gov/release/district-columbia-economy-adds-3800-jobs-april#.VWalbLP_RjU.wordpress">http://dhcd.dc.gov/release/district-columbia-economy-adds-3800-jobs-april</a>.</p> 
+
+Link http://pegasusbooks.com/books/the-dead-dont-bleed-9781681771397-hardcover failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/10/22/david-krugler-interview-with-a-d-c-novelist/
+    in element <em><a href="http://pegasusbooks.com/books/the-dead-dont-bleed-9781681771397-hardcover" rel="noopener" target="_blank">The Dead Don’t Bleed</a></em> 
+
+Link http://douglasdevelopment.com/properties/georgia-eastern/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2014/04/09/supermarkets-in-the-district-of-columbia/#print
+    in element <p>No Costco?  Also, there is a new Harris Teeter proposed by Douglas Development for Georgia Avenue right near the Maryland border – <a href="http://douglasdevelopment.com/properties/georgia-eastern/" rel="nofollow ugc">http://douglasdevelopment.com/properties/georgia-eastern/</a></p> 
+
+Link http://planning.dc.gov/DC/Planning/Historic+Preservation/Maps+and+Information/Landmarks+and+Districts/Pending+Historic+Landmarks+and+Historic+Districts/George+Washington+University+West+End+Historic+District+Nomination+Case+14-12 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2014/06/02/new-historic-district-proposed-for-gwuwest-end/
+    in element <p><a href="https://matthewbgilmore.files.wordpress.com/2014/06/gwu_we_hd.pdf">click here for largerPDF of George Washington/West End Historic District map</a><br/>
+<a href="http://planning.dc.gov/DC/Planning/Historic+Preservation/Maps+and+Information/Landmarks+and+Districts/Pending+Historic+Landmarks+and+Historic+Districts/George+Washington+University+West+End+Historic+District+Nomination+Case+14-12" title="George Washington University West End Historic District Nomination Case 14-12 ">Click here for: George Washington University West End Historic District Nomination Case 14-12 </a><br/>
+Here’s a snippet:</p> 
+
+Link http://www.amazon.com/Foggy-Bottom-West-Vintage-Images/dp/1596293322 failed, response <Response [503]>
+    on page https://matthewbgilmore.wordpress.com/2014/06/02/new-historic-district-proposed-for-gwuwest-end/
+    in element <strong><a href="http://www.amazon.com/Foggy-Bottom-West-Vintage-Images/dp/1596293322" title="Foggy Bottom and the West End in Vintage Images">Foggy Bottom and the West End in Vintage Images</a>.</strong> 
+
+Link https://www.facebook.com/UpshurStBooks failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/02/23/663/
+    in element <p><a class="_5xhk" href="https://www.facebook.com/UpshurStBooks" id="u_0_m">Upshur Street Books</a></p> 
+
+Link http://intowner.com/2015/07/18/washington-dc-center-of-manufacturing/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/07/20/washington-dc-center-of-paper-straw-manufacture/
+    in element <strong><a href="http://intowner.com/2015/07/18/washington-dc-center-of-manufacturing/" target="_blank">http://intowner.com/2015/07/18/washington-dc-center-of-manufacturing/</a></strong> 
+
+Link http://intowner.com/2015/08/19/washingtons-lime-kilns-creating-the-stuff-of-building/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/08/19/washingtons-lime-kilns-creating-the-stuff-of-building/
+    in element <p>click for full article: <a href="http://intowner.com/2015/08/19/washingtons-lime-kilns-creating-the-stuff-of-building/">http://intowner.com/2015/08/19/washingtons-lime-kilns-creating-the-stuff-of-building/</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2015/08/AUG-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/08/19/washingtons-lime-kilns-creating-the-stuff-of-building/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2015/08/AUG-WhatOnceWas-pic1.jpg" rel="lightbox[8594]"><img alt="Godey Lime Kilns Ruins, July 1965. photo--Abbe Rowe for Historic American Buildings Survey (HABS) HABS DC-441; courtesy Library of Congress." class="size-medium wp-image-8596" height="213" loading="lazy" src="https://i0.wp.com/intowner.com/wp-content/uploads/2015/08/AUG-WhatOnceWas-pic1-300x213.jpg" width="300"/></a></p> 
+
+Link http://dumbartonhouse.org/event/welcome-pierre-2 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/02/28/welcome-pierre-2019-2/
+    in element <p><strong>Tickets are on sale at </strong><a href="http://dumbartonhouse.org/event/welcome-pierre-2" rel="noreferrer noopener" target="_blank"><strong>http://dumbartonhouse.org/event/welcome-pierre-2</strong></a></p> 
+
+Link http://intowner.com/2019/05/12/franklin-square-park-major-renovation-poised-to-start-expectations-very-high failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/11/06/franklin-square-park-or-parking-evolution-of-a-public-space/
+    in element <p>In a milestone moment in DC’s urban development, <a href="http://intowner.com/2019/05/12/franklin-square-park-major-renovation-poised-to-start-expectations-very-high">plans are underway</a>  for a complete refit of Franklin Park — by the District of Columbia, not the National Park Service (NPS). In the Spring of 2019, Congress passed the Federal Lands bill; a provision in the bill allowed the District of Columbia to contract for improvements to parks under National Park Service jurisdiction. The District government chose Franklin Square to be the first to be transformed, given this new opportunity. The District has been constantly frustrated by the inability of the underfunded NPS to adequately maintain its parks in the District.</p> 
+
+Link https://intowner.com/2019/11/04/franklin-square-park-or-parking-evolution-of-a-public-space/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/11/06/franklin-square-park-or-parking-evolution-of-a-public-space/
+    in element <p>…. COMPLETE COLUMN CLICK HERE:  <a href="https://intowner.com/2019/11/04/franklin-square-park-or-parking-evolution-of-a-public-space/">https://intowner.com/2019/11/04/franklin-square-park-or-parking-evolution-of-a-public-space/</a> </p> 
+
+Link https://www.nationalmallunderground.org/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/11/06/franklin-square-park-or-parking-evolution-of-a-public-space/
+    in element <p>Was the idea of a parking structure under Franklin Square so absurd? Parking under parks was more prevalent out west. In 1942 parking was built under San Francisco’s Union Square. Pershing Square in Los Angeles sits atop an underground parking structure built in 1952. In Washington, DC the “Spirit of Justice Park” (completed in 1967) covers two blocks of underground parking south of the Longworth and Rayburn House Office buildings. And development of <a href="https://www.nationalmallunderground.org/">parking under the Mall</a> is being suggested today. <strong>[18]</strong></p> 
+
+Link http://intowner.com/2018/09/17/naming-names-washingtons-neighborhoods/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/10/01/naming-names-washingtons-neighborhoods/
+    in element <p>FULL COLUMN HERE: <a href="http://intowner.com/2018/09/17/naming-names-washingtons-neighborhoods/" rel="noopener" target="_blank">http://intowner.com/2018/09/17/naming-names-washingtons-neighborhoods/</a></p> 
+
+Link http://upshurstreetbooks.com/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/06/independent-bookstores-of-washington-dc/
+    in element <li><a href="http://upshurstreetbooks.com/" target="_blank">upshurstreetbooks.com/</a></li> 
+
+Link http://www.booksforamerica.org/home.html failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/06/independent-bookstores-of-washington-dc/
+    in element <li><a href="http://www.booksforamerica.org/home.html" target="_blank">http://www.booksforamerica.org/home.html</a></li> 
+
+Link http://www.his.com/~lantern/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/06/independent-bookstores-of-washington-dc/
+    in element <li><a href="http://www.his.com/~lantern/" target="_blank">http://www.his.com/~lantern/</a></li> 
+
+Link tel:202-727-1101 failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2016/08/19/whither-washingtoniana-issued-raised-at-the-august-17-dcpl-board-meeting/
+    in element <b><a href="tel:202-727-1101" target="_blank">202-727-1101</a></b> 
+
+Link http://march.rutgers.edu/2016/08/whither-washingtoniana/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/08/05/whither-washingtoniana/
+    in element <p class="entry-title post-title"><a href="http://march.rutgers.edu/2016/08/whither-washingtoniana/" target="_blank">http://march.rutgers.edu/2016/08/whither-washingtoniana/</a></p> 
+
+Link http://march.rutgers.edu/2016/08/whither-washingtoniana/#mapone failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/08/05/whither-washingtoniana/
+    in element <p>The 24,000 square feet of space is to be leased for Library administrative offices. A tiny space, 5,800 square feet, has been leased for public service: “will host a computer training classroom, up to 12 public computers, space for adult literacy programs and a center for accessibility, space for holds to be picked up, and a small collection of new books…” <a href="http://march.rutgers.edu/2016/08/whither-washingtoniana/#mapone">1</a></p> 
+
+Link http://march.rutgers.edu/2016/08/whither-washingtoniana/#_edn1 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/08/05/whither-washingtoniana/
+    in element <p>Local history is a core part of the public library mission–the American Library Association just recently published <em>Local History Reference Collections for Public Libraries</em> articulating trends, practices, users, needs for any public library local history collection. Neighboring Arlington County Library has invested in making its Center of Local History (formerly Virginiana Room) a model public library local history enterprise—but does not match scope of Washingtoniana for current materials. That the architectural renderings for the library renovation give no indication of any substantive research space is rather disturbing. <a href="http://march.rutgers.edu/2016/08/whither-washingtoniana/#mapone">3</a><a href="http://march.rutgers.edu/2016/08/whither-washingtoniana/#_edn1" name="_ednref1"></a></p> 
+
+Link https://www.dclibrary.org/node/56712 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/09/07/washingtoniana-re-opens-by-appointment-at-the-newseum-on-tuesday-september-19-2017/
+    in element <p>During the three-year modernization of the Martin Luther King Jr. Memorial Library, Washingtoniana <span style="color:#ff0000;"><strong>archival</strong> </span>materials are available by appointment at the Library of Congress. Due to renovations of the Carnegie Library, <em><strong>Washingtoniana Reference and Photos service is temporarily closed and will re-open at the Newseum on Tuesday, September 19, 2017. </strong></em>For more information, visit the <a href="https://www.dclibrary.org/node/56712" rel="noopener" target="_blank" title="Special Collections Interim Access &amp; Services">Special Collections Interim Access &amp; Services page</a>.</p> 
+
+Link http://digdc.dclibrary.org/cdm/landingpage/collection/p16808coll11 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/09/07/washingtoniana-re-opens-by-appointment-at-the-newseum-on-tuesday-september-19-2017/
+    in element <p><a href="http://digdc.dclibrary.org/cdm/landingpage/collection/p16808coll11" rel="noopener" target="_blank" title="DCPL Archives on Dig DC"><img src="https://www.dclibrary.org/sites/default/files/wash%20pic%20with%20caption_0.PNG"/></a><br/>
+The majority of the Washingtoniana reference collections, including photos and vertical files, will be available <strong><span style="color:#ff0000;">by appointment</span> </strong>at the Newseum.</p> 
+
+Link https://www.usajobs.gov/GetJob/ViewDetails/423248100 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/06/library-of-congress-2016-junior-fellows-summer-intern-program-deadline-upcoming/
+    in element <strong>Applications for the 2016 Junior Fellows Summer Intern Program will be available December 7, 2015 through January 22, 2016 at the following web link:<a href="https://www.usajobs.gov/GetJob/ViewDetails/423248100">https://www.usajobs.gov/GetJob/ViewDetails/423248100</a></strong> 
+
+Link http://intowner.com/2016/10/26/the-city-of-our-hopes-and-desires-zoning-comes-to-washington-dc/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/10/31/the-city-of-our-hopes-and-desires-zoning-comes-to-washington-dc/
+    in element <p>For complete article click: <a href="http://intowner.com/2016/10/26/the-city-of-our-hopes-and-desires-zoning-comes-to-washington-dc/" target="_blank">http://intowner.com/2016/10/26/the-city-of-our-hopes-and-desires-zoning-comes-to-washington-dc/</a></p> 
+
+Link https://www.facebook.com/TheHipHopMuseumDC/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/01/29/museums-in-washington-dc-2019-update/
+    in element <p>There’s a pop-up <a aria-label="hip-hop museum (opens in a new tab)" href="https://www.facebook.com/TheHipHopMuseumDC/" rel="noreferrer noopener" target="_blank"><strong>hip-hop museum</strong></a> at Blind Whino in SW DC, closing February 18, 2019.</p> 
+
+Link https://lawenforcementmuseum.org/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/01/09/museums-in-washington-dc-2019/
+    in element <p>The <a href="https://lawenforcementmuseum.org/" rel="noopener" target="_blank">National Law Enforcement Museum</a> opened October 13, 2018 <span class="username u-dir" dir="ltr"><a class="ProfileHeaderCard-screennameLink u-linkComplex js-nav" href="https://twitter.com/NLEMuseum">@<b class="u-linkComplex-target">NLEMuseum</b></a> 444 E Street, NW, Washington, DC 20001</span></p> 
+
+Link https://www.jhsgw.org/about-us/new-museum-faqs failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2019/03/29/museums-in-washington-dc-2019-spring-update-and-a-list-of-all-d-c-s-museums/
+    in element <p>Construction of the new Lillian and Albert Small Jewish Museum is underway–  <br/><a href="https://www.jhsgw.org/about-us/new-museum-faqs">https://www.jhsgw.org/about-us/new-museum-faqs</a> — the 1876 Adas Israel Synagogue moved again  <br/><a href="https://www.flickr.com/photos/jhsgw/sets/72157676734540515">https://www.flickr.com/photos/jhsgw/sets/72157676734540515</a> <br/></p> 
+
+Link http://www.afroamcivilwar.org failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.afroamcivilwar.org">http://www.afroamcivilwar.org</a></li> 
+
+Link http://www.afroamcivilwar.org/news-events.html failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="http://www.afroamcivilwar.org/news-events.html">http://www.afroamcivilwar.org/news-events.html</a></li> 
+
+Link http://societyofthecincinnati.org/ failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://societyofthecincinnati.org/" title="http://societyofthecincinnati.org/">http://societyofthecincinnati.org/</a></li> 
+
+Link http://societyofthecincinnati.org/events/public failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="http://societyofthecincinnati.org/events/public" title="http://societyofthecincinnati.org/events/public">http://societyofthecincinnati.org/events/public</a></li> 
+
+Link http://sumnerschool.tumblr.com failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://sumnerschool.tumblr.com">http://sumnerschool.tumblr.com</a></li> 
+
+Link http://www.civilwarmed.org/clara-barton-museum/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.civilwarmed.org/clara-barton-museum/" title="http://www.civilwarmed.org/clara-barton-museum/">http://www.civilwarmed.org/clara-barton-museum/</a></li> 
+
+Link http://www.whitehousehistory.org/events/tour-the-historic-decatur-house failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.whitehousehistory.org/events/tour-the-historic-decatur-house">http://www.whitehousehistory.org/events/tour-the-historic-decatur-house</a></li> 
+
+Link https://diplomaticrooms.state.gov/home.aspx failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="https://diplomaticrooms.state.gov/home.aspx">https://diplomaticrooms.state.gov/home.aspx</a></li> 
+
+Link http://www3.nahc.org/fd/index.html failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www3.nahc.org/fd/index.html">http://www3.nahc.org/fd/index.html</a></li> 
+
+Link http://www.hillwoodmuseum.org/whats failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="http://www.hillwoodmuseum.org/whats">http://www.hillwoodmuseum.org/whats</a></li> 
+
+Link http://www.laogai.org/events failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="http://www.laogai.org/events">http://www.laogai.org/events</a></li> 
+
+Link https://www.jhsgw.org/ failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="https://www.jhsgw.org/" title="https://www.jhsgw.org/">https://www.jhsgw.org/</a></li> 
+
+Link https://www.jhsgw.org/events-and-tours/public-programs/upcoming failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="https://www.jhsgw.org/events-and-tours/public-programs/upcoming" title="https://www.jhsgw.org/events-and-tours/public-programs/upcoming">https://www.jhsgw.org/events-and-tours/public-programs/upcoming</a></li> 
+
+Link http://www.usna.usda.gov/Gardens/collections/bonsai.html failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.usna.usda.gov/Gardens/collections/bonsai.html">http://www.usna.usda.gov/Gardens/collections/bonsai.html</a></li> 
+
+Link http://www.nmajmh.org/educationAndEvents/Events.php failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.nmajmh.org/educationAndEvents/Events.php" title="http://www.nmajmh.org/educationAndEvents/Events.php">http://www.nmajmh.org/educationAndEvents/Events.php</a></li> 
+
+Link http://www.crimemuseum.org failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.crimemuseum.org" title="http://www.crimemuseum.org">http://www.crimemuseum.org</a></li> 
+
+Link http://www.crimemuseum.org/monthly-events-and-programs failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="http://www.crimemuseum.org/monthly-events-and-programs" title="http://www.crimemuseum.org/monthly-events-and-programs">http://www.crimemuseum.org/monthly-events-and-programs</a></li> 
+
+Link http://www.history.navy.mil/museums/NationalMuseum/org8-6.htm failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="http://www.history.navy.mil/museums/NationalMuseum/org8-6.htm">http://www.history.navy.mil/museums/NationalMuseum/org8-6.htm</a></li> 
+
+Link http://www.usdaughters1812.org/museum.html failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.usdaughters1812.org/museum.html">http://www.usdaughters1812.org/museum.html</a></li> 
+
+Link http://architectsfoundation.org/preservation/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>htt<a href="http://architectsfoundation.org/preservation/" title="http://architectsfoundation.org/preservation/">p://architectsfoundation.org/preservation/</a></li> 
+
+Link http://lincolncottage.org failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://lincolncottage.org">http://lincolncottage.org</a></li> 
+
+Link http://lincolncottage.org/category/visit/public-programs/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Events: <a href="http://lincolncottage.org/category/visit/public-programs/">http://lincolncottage.org/category/visit/public-programs/</a></li> 
+
+Link http://scottishrite.org/headquarters/museums/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://scottishrite.org/headquarters/museums/">http://scottishrite.org/headquarters/museums/</a></li> 
+
+Link http://www.sewallbelmont.org/program/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Events: <a href="http://www.sewallbelmont.org/program/">http://www.sewallbelmont.org/program/</a></li> 
+
+Link http://www.woodrowwilsonhouse.org failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.woodrowwilsonhouse.org">http://www.woodrowwilsonhouse.org</a></li> 
+
+Link https://art.georgetown.edu/galleries failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="https://art.georgetown.edu/galleries">https://art.georgetown.edu/galleries</a></li> 
+
+Link https://art.georgetown.edu/galleries/current failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li>Calendar: <a href="https://art.georgetown.edu/galleries/current">https://art.georgetown.edu/galleries/current</a></li> 
+
+Link http://www.galleryofart.howard.edu failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.galleryofart.howard.edu">http://www.galleryofart.howard.edu</a></li> 
+
+Link http://www.asia.si.edu/events/default.asp failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.asia.si.edu/events/default.asp">http://www.asia.si.edu/events/default.asp</a></li> 
+
+Link http://www.npg.si.edu/event/currentevents.html failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/25/washington-dc-museums-a-complete-list-for-museum-day-2015/
+    in element <li><a href="http://www.npg.si.edu/event/currentevents.html">http://www.npg.si.edu/event/currentevents.html</a></li> 
+
+Link http://www.afroamcivilwar.org/ failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2019/03/29/museums-in-washington-dc-2019-spring-update-and-a-list-of-all-d-c-s-museums/#respond
+    in element <li><a href="http://www.afroamcivilwar.org/">http://www.afroamcivilwar.org</a></li> 
+
+Link http://lincolncottage.org/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2019/03/29/museums-in-washington-dc-2019-spring-update-and-a-list-of-all-d-c-s-museums/#respond
+    in element <li><a href="http://lincolncottage.org/">http://lincolncottage.org</a></li> 
+
+Link http://democraticwoman.org/art-exhibitsmuseum/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/03/29/museums-in-washington-dc-2019-spring-update-and-a-list-of-all-d-c-s-museums/#respond
+    in element <li><a href="http://democraticwoman.org/art-exhibitsmuseum/" rel="noreferrer noopener" target="_blank">http://democraticwoman.org/art-exhibitsmuseum/</a></li> 
+
+Link http://www.woodrowwilsonhouse.org/ failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2019/03/29/museums-in-washington-dc-2019-spring-update-and-a-list-of-all-d-c-s-museums/#respond
+    in element <li><a href="http://www.woodrowwilsonhouse.org/">http://www.woodrowwilsonhouse.org</a></li> 
+
+Link http://www.galleryofart.howard.edu/ failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2019/03/29/museums-in-washington-dc-2019-spring-update-and-a-list-of-all-d-c-s-museums/#respond
+    in element <li><a href="http://www.galleryofart.howard.edu/">http://www.galleryofart.howard.edu/</a></li> 
+
+Link http://www.openlettersmonthly.com/book-review-washington/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/10/16/book-talk-washington-a-history-of-our-national-city-tom-lewis-oct-18-2015/
+    in element <strong><a href="http://www.openlettersmonthly.com/book-review-washington/">http://www.openlettersmonthly.com/book-review-washington/</a></strong> 
+
+Link http://intowner.com/2016/07/19/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/08/04/national-archives-and-district-of-columbia-court-records-kansas-city/
+    in element <p>Just a few examples from my recent research: cases such as <em>Morris v. United States</em>, which led to the creation of <a href="http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park">East and West Potomac Parks</a>, created from the Potomac River; <em>United States v. Annie E. Cole</em> <a href="http://intowner.com/2016/07/19/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war">determined how public space would be used</a> in Washington; the equity case of <em>John L. Newbold vs. District of Columbia</em> is key to understanding a corner of Georgetown history when <a href="http://intowner.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience">Bellevue was moved and Q Street extended</a>.</p> 
+
+Link http://intowner.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/08/04/national-archives-and-district-of-columbia-court-records-kansas-city/
+    in element <p>Just a few examples from my recent research: cases such as <em>Morris v. United States</em>, which led to the creation of <a href="http://intowner.com/2016/09/20/kidwells-gambit-one-mans-gamble-and-the-creation-of-potomac-park">East and West Potomac Parks</a>, created from the Potomac River; <em>United States v. Annie E. Cole</em> <a href="http://intowner.com/2016/07/19/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war">determined how public space would be used</a> in Washington; the equity case of <em>John L. Newbold vs. District of Columbia</em> is key to understanding a corner of Georgetown history when <a href="http://intowner.com/2015/09/15/bellevue-becomes-dumbarton-house-a-moving-experience">Bellevue was moved and Q Street extended</a>.</p> 
+
+Link https://intowner.com/2019/09/07/teddy-roosevelt-and-washington-dcs-smoke-nuisance/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/09/08/teddy-roosevelt-and-washington-dcs-smoke-nuisance/
+    in element <p><strong>COMPLETE COLUMN CLICK HERE:</strong> <a href="https://intowner.com/2019/09/07/teddy-roosevelt-and-washington-dcs-smoke-nuisance/">https://intowner.com/2019/09/07/teddy-roosevelt-and-washington-dcs-smoke-nuisance/</a> </p> 
+
+Link http://intowner.com/2019/07/24/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/07/28/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/
+    in element <p>
+
+Complete column here:  <a href="http://intowner.com/2019/07/24/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/">http://intowner.com/2019/07/24/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2019/07/JUL-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/07/28/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/
+    in element <figure class="wp-block-image"><a href="http://intowner.com/wp-content/uploads/2019/07/JUL-WhatOnceWas-pic1.jpg"><img alt="" class="wp-image-14464" src="https://i0.wp.com/intowner.com/wp-content/uploads/2019/07/JUL-WhatOnceWas-pic1-258x300.jpg"/></a></figure> 
+
+Link https://www.tudorplace.org/research-history/collection/in-the-collection/the-pierce-arrow-roadster failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/07/28/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/
+    in element <p>The Peters purchased four more Pierce-Arrows: a 1914 48-B2 Touring Car, a 1916 38-C4 Two Passenger Runabout, a 1919 48-B5 Roadster, and a 1920 Town Brougham. That <a href="https://www.tudorplace.org/research-history/collection/in-the-collection/the-pierce-arrow-roadster">1919 48-B5 Roadster</a> (purchased for Armistead Peter 3rd by his parents), is still housed in the Tudor Place garage, and is one of the few vintage automobiles on display in Washington.</p> 
+
+Link http://intowner.com/2014/02/18/alice-pike-barneys-studio-house-on-sheridan-circle-2 failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/07/28/washington-welcomes-the-automobile-120-year-romance-part-ii-adoption-and-regulations/
+    in element <p>Automobiles took the place of horses in “automobile stables” in Washington but soon they would get dedicated structures. One of the first purpose-built “garages” in Washington is located at 2201 Massachusetts Avenue NW (at Massachusetts, Florida, and 22nd), and, entered through the side alley, forms part of the Miller House, constructed in 1900. The house, designed by Paul J. Pelz, of Library of Congress fame, is now a condominium known as Argyle Terrace. The garage was used for a time by Olga Hirshhorn to house her art collection. Nearby Alice Pike Barney included a garage in <a href="http://intowner.com/2014/02/18/alice-pike-barneys-studio-house-on-sheridan-circle-2">her new home</a> at 2306 Massachusetts Avenue on Sheridan Circle.</p> 
+
+Link http://intowner.com/2019/05/21/washington-welcomes-the-automobile-120-year-romance-part-i-anticipation-and-local-innovation/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/05/22/what-once-was-washington-welcomes-the-automobile-120-year-romance-part-i-anticipation-and-local-innovation/
+    in element <p>For complete article CLICK:  <a href="http://intowner.com/2019/05/21/washington-welcomes-the-automobile-120-year-romance-part-i-anticipation-and-local-innovation/">http://intowner.com/2019/05/21/washington-welcomes-the-automobile-120-year-romance-part-i-anticipation-and-local-innovation/</a> </p> 
+
+Link http://intowner.com/2018/06/26/washingtons-first-bicycle-craze-cycling-in-the-1880s-and-1890s/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/06/26/washingtons-first-bicycle-craze-cycling-in-the-1880s-and-1890s/
+    in element <p>CLICK: <a href="http://intowner.com/2018/06/26/washingtons-first-bicycle-craze-cycling-in-the-1880s-and-1890s/" rel="noopener" target="_blank">http://intowner.com/2018/06/26/washingtons-first-bicycle-craze-cycling-in-the-1880s-and-1890s/</a><br/>
+for the complete article.</p> 
+
+Link http://52.202.253.253/~intowner/wp-content/uploads/2016/04/APR-WhatOnceWas-pic2.jpg failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2018/07/11/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc-2/
+    in element <p><a href="http://52.202.253.253/~intowner/wp-content/uploads/2016/04/APR-WhatOnceWas-pic2.jpg" rel="lightbox[9417]"><img alt="APR-WhatOnceWas-pic2-211x300" class="alignnone size-full wp-image-3355" data-attachment-id="3355" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="APR-WhatOnceWas-pic2-211×300" data-large-file="https://matthewbgilmore.files.wordpress.com/2018/07/apr-whatoncewas-pic2-211x300.jpg?w=211" data-medium-file="https://matthewbgilmore.files.wordpress.com/2018/07/apr-whatoncewas-pic2-211x300.jpg?w=211" data-orig-file="https://matthewbgilmore.files.wordpress.com/2018/07/apr-whatoncewas-pic2-211x300.jpg" data-orig-size="211,300" data-permalink="https://matthewbgilmore.wordpress.com/2018/07/11/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc-2/apr-whatoncewas-pic2-211x300/" sizes="(max-width: 211px) 100vw, 211px" src="https://matthewbgilmore.files.wordpress.com/2018/07/apr-whatoncewas-pic2-211x300.jpg?w=547" srcset="https://matthewbgilmore.files.wordpress.com/2018/07/apr-whatoncewas-pic2-211x300.jpg 211w, https://matthewbgilmore.files.wordpress.com/2018/07/apr-whatoncewas-pic2-211x300.jpg?w=106 106w"/></a></p> 
+
+Link http://intowner.com/2016/04/15/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/07/11/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc-2/
+    in element <p>COMPLETE column here: <a href="http://intowner.com/2016/04/15/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc/" rel="noopener" target="_blank">http://intowner.com/2016/04/15/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc/</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/04/APR-WhatOnceWas-pic1.png failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/04/18/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/04/APR-WhatOnceWas-pic1.png" rel="lightbox[9417]"><img alt="Newspaper comment on Mrs. Rice's anti-noise campaign. (Evening Star, Oct. 31, 1907.)" class="size-medium wp-image-9418" height="267" loading="lazy" src="https://i0.wp.com/intowner.com/wp-content/uploads/2016/04/APR-WhatOnceWas-pic1-300x267.png" width="300"/></a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/04/APR-WhatOnceWas-pic2.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/04/18/honk-that-horn-go-to-jail-evolution-of-noise-regulation-in-washington-dc/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/04/APR-WhatOnceWas-pic2.jpg" rel="lightbox[9417]"><img alt="Mrs. Isaac (Julia) Rice. (Cyclopedia of American Biography.)" class="size-medium wp-image-9419" height="300" loading="lazy" src="https://i2.wp.com/intowner.com/wp-content/uploads/2016/04/APR-WhatOnceWas-pic2-211x300.jpg" width="211"/></a></p> 
+
+Link https://dcpres.wufoo.com/forms/city-and-capital-building-washington-dc/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/10/25/latrobe-chapter-symposium-october-28-2017-city-and-capital-building-washington-dc-as-home-and-symbol/
+    in element <b>Registration is now open!  <a href="https://dcpres.wufoo.com/forms/city-and-capital-building-washington-dc/" rel="nofollow">Click here</a> to register.</b> 
+
+Link http://intowner.com/2017/07/20/good-order-good-taste-and-with-due-regard-to-public-interests-involved-the-origins-of-the-shipstead-luce-act/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/07/24/what-once-was-good-order-good-taste-and-with-due-regard-to-public-interests-involved-the-origins-of-the-shipstead-luce-act/#respond
+    in element <p>Complete article here: <a href="http://intowner.com/2017/07/20/good-order-good-taste-and-with-due-regard-to-public-interests-involved-the-origins-of-the-shipstead-luce-act/" rel="noopener" target="_blank">http://intowner.com/2017/07/20/good-order-good-taste-and-with-due-regard-to-public-interests-involved-the-origins-of-the-shipstead-luce-act/</a></p> 
+
+Link http://c.ymcdn.com/sites/dcals.org/resource/resmgr/Docs/Petworth_that_never_was.pdf failed, response <Response [522]>
+    on page https://matthewbgilmore.wordpress.com/2016/04/04/petworth-that-never-was-curious-case-of-the-missing-plat/
+    in element <strong><a href="http://c.ymcdn.com/sites/dcals.org/resource/resmgr/Docs/Petworth_that_never_was.pdf" target="_blank">Petworth Which Never Was – DCALS article</a></strong> 
+
+Link http://dcals.org/news/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2016/04/04/petworth-that-never-was-curious-case-of-the-missing-plat/
+    in element <p><a href="http://dcals.org/news/" target="_blank">http://dcals.org</a></p> 
+
+Link http://intowner.com/2016/10/26/the-city-of-our-hopes-and-desires-zoning-comes-to-washington-dc failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/04/10/past-planning-for-the-future-dcs-1950-comprehensive-plan/
+    in element <p>The Permanent System of Highways, as it was officially called, defined the pattern for the entire street network of the District, with the Highway Commission administering this street plan. <strong>[1]</strong> Once those roadway decisions had been made, the next defining plan, which was the subject of an October 2016 article in this space, was the <a href="http://intowner.com/2016/10/26/the-city-of-our-hopes-and-desires-zoning-comes-to-washington-dc">1920 Zoning Plan</a> and its modifications.</p> 
+
+Link http://intowner.com/2017/04/10/past-planning-for-the-future-dcs-1950-comprehensive-plan-or-planning-atomic-age-washington/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/04/10/past-planning-for-the-future-dcs-1950-comprehensive-plan/
+    in element <p><a href="http://intowner.com/2017/04/10/past-planning-for-the-future-dcs-1950-comprehensive-plan-or-planning-atomic-age-washington/" target="_blank">http://intowner.com/2017/04/10/past-planning-for-the-future-dcs-1950-comprehensive-plan-or-planning-atomic-age-washington/</a></p> 
+
+Link http://library.arlingtonva.us/2013/01/15/do-you-know-what-your-street-used-to-be-named-back-pages/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/13/arlington-county-house-history-research/
+    in element <p>Street name changes<br/>
+<a href="http://library.arlingtonva.us/2013/01/15/do-you-know-what-your-street-used-to-be-named-back-pages/">http://library.arlingtonva.us/2013/01/15/do-you-knowwhat-your-streetused-to-benamed-backpages/</a></p> 
+
+Link http://www.censusfinder.com/virginia.htm failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/05/13/arlington-county-house-history-research/
+    in element <p>Online Census resources<br/>
+<a href="http://www.censusfinder.com/virginia.htm">http://www.censusfinder.com/virginia.htm</a><br/>
+<a href="https://familysearch.org/learn/wiki/en/Virginia_Census">https://familysearch.org/learn/wiki/en/Virginia_Census</a></p> 
+
+Link https://familysearch.org/learn/wiki/en/Virginia_Census failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/05/13/arlington-county-house-history-research/
+    in element <p>Online Census resources<br/>
+<a href="http://www.censusfinder.com/virginia.htm">http://www.censusfinder.com/virginia.htm</a><br/>
+<a href="https://familysearch.org/learn/wiki/en/Virginia_Census">https://familysearch.org/learn/wiki/en/Virginia_Census</a></p> 
+
+Link http://washingtondc.localco.net/a-historic-bank-may-become-d-c-s-newest-museum-curbed-dc-3/ failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2014/06/13/just-how-many-museums-are-there-in-washington-dc/#print
+    in element <p>Pingback: <a class="url" href="http://washingtondc.localco.net/a-historic-bank-may-become-d-c-s-newest-museum-curbed-dc-3/" rel="external nofollow ugc">A Historic Bank May Become D.C.'s Newest Museum - Curbed DC - Washington DC</a></p> 
+
+Link https://www.census.gov/popest/data/state/totals/2015/index.html failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/12/27/latest-d-c-population-update-july-2015/
+    in element <p>Source: <a href="https://www.census.gov/popest/data/state/totals/2015/index.html" target="_blank">Census population estimates</a></p> 
+
+Link http://quickfacts.census.gov/qfd/states/11000.html failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2015/12/27/latest-d-c-population-update-july-2015/
+    in element <p>Old link <a href="http://quickfacts.census.gov/qfd/states/11000.html" target="_blank">http://quickfacts.census.gov/qfd/states/11000.html</a></p> 
+
+Link https://www.census.gov/popest/methodology/index.html failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/12/27/latest-d-c-population-update-july-2015/
+    in element <p>Methodology: <a href="https://www.census.gov/popest/methodology/index.html" target="_blank">https://www.census.gov/popest/methodology/index.html</a></p> 
+
+Link http://intowner.com/2018/12/30/merry-christmas-washington-evolution-of-the-holiday-in-the-nations-capital/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/12/31/merry-christmas-washington-evolution-of-the-holiday-in-the-nations-capital/
+    in element <p>click for complete article: <a href="http://intowner.com/2018/12/30/merry-christmas-washington-evolution-of-the-holiday-in-the-nations-capital/" rel="noopener" target="_blank">http://intowner.com/2018/12/30/merry-christmas-washington-evolution-of-the-holiday-in-the-nations-capital/</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2018/12/DEC-WhatOnceWas-pic01.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/12/31/merry-christmas-washington-evolution-of-the-holiday-in-the-nations-capital/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2018/12/DEC-WhatOnceWas-pic01.jpg" rel="lightbox[13455]"><img alt="IMAGE01" class="alignnone size-full wp-image-3821" data-attachment-id="3821" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="IMAGE01" data-large-file="https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=547" data-medium-file="https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=300" data-orig-file="https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg" data-orig-size="4664,3557" data-permalink="https://matthewbgilmore.wordpress.com/2018/12/31/merry-christmas-washington-evolution-of-the-holiday-in-the-nations-capital/image01-11/" sizes="(max-width: 547px) 100vw, 547px" src="https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=547" srcset="https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=547 547w, https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=1094 1094w, https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=150 150w, https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=300 300w, https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=768 768w, https://matthewbgilmore.files.wordpress.com/2018/12/IMAGE01.jpg?w=1024 1024w"/></a></p> 
+
+Link http://dcoz.dc.gov/zrr/zrr.shtm failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/09/06/new-zoning-for-the-district-of-columbia-september-6-2016/
+    in element <p><a href="http://dcoz.dc.gov/zrr/zrr.shtm" target="_blank">Link to New Zoning Regulations taking effect September 6, 2016</a></p> 
+
+Link http://intowner.com/2018/11/30/one-last-tempo-liberty-loan-building/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2018/12/03/one-last-tempo-liberty-loan-building/
+    in element <p>[CLICK HERE for complete article: <a href="http://intowner.com/2018/11/30/one-last-tempo-liberty-loan-building/" rel="noopener" target="_blank">http://intowner.com/2018/11/30/one-last-tempo-liberty-loan-building/</a></p> 
+
+Link http://www.akashicbooks.com/catalog/spoke/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2018/10/15/thomas-kenning-interview-with-a-washington-dc-history-author/
+    in element <em><a href="http://www.akashicbooks.com/catalog/spoke/" rel="noopener" target="_blank">Spoke: Images and Stories from the 1980s Washington, DC Punk Scene</a></em> 
+
+Link http://www.mdhs.org/findingaid/warden-papers-1797-1851-ms-871 failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2020/03/16/irish-washington-dc-2020-update/#respond
+    in element <li>David Baillie Warden (1772-1845)  <a href="http://www.mdhs.org/findingaid/warden-papers-1797-1851-ms-871" rel="noopener" target="_blank">http://www.mdhs.org/findingaid/warden-papers-1797-1851-ms-871</a></li> 
+
+Link http://gurukul.american.edu/heintze/DC.htm failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2018/07/03/district-of-columbias-first-4th-of-july-1801/#comments
+    in element <p>for further reading see: <a href="http://gurukul.american.edu/heintze/DC.htm">“A Nation’s Gratitude and Joy”: The Fourth of July in Washington, D.C. Researched by James R. Heintze.</a></p> 
+
+Link http://intowner.com/2017/02/02/sesqui-what-truman-throws-a-party-for-washington/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/02/03/sesqui-what-truman-throws-a-party-for-washington/
+    in element <p>Full article here: <a href="http://intowner.com/2017/02/02/sesqui-what-truman-throws-a-party-for-washington/" target="_blank">http://intowner.com/2017/02/02/sesqui-what-truman-throws-a-party-for-washington/</a></p> 
+
+Link https://march.rutgers.edu/2016/08/whither-washingtoniana/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/01/17/whither-washingtoniana-plans-sketched-concerns-rebuffed-closing-march-4/
+    in element <p>We started here back last August: <a href="https://march.rutgers.edu/2016/08/whither-washingtoniana/" target="_blank">https://march.rutgers.edu/2016/08/whither-washingtoniana/</a></p> 
+
+Link http://intowner.com/2019/03/20/pensions-portfolios-and-printing-j-worth-carnahan-in-washington-dc/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2019/03/21/pensions-portfolios-and-printing-j-worth-carnahan-in-washington-dc/
+    in element <p><strong>FULL ARTICLE click here</strong>: <a aria-label=" (opens in a new tab)" href="http://intowner.com/2019/03/20/pensions-portfolios-and-printing-j-worth-carnahan-in-washington-dc/" rel="noreferrer noopener" target="_blank">http://intowner.com/2019/03/20/pensions-portfolios-and-printing-j-worth-carnahan-in-washington-dc/</a></p> 
+
+Link http://intowner.com/2016/12/25/here-to-feast-on-historic-places-first-stirrings-of-historic-preservation-in-washington/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/12/27/here-to-feast-on-historic-places-first-stirrings-of-historic-preservation-in-washington/
+    in element <p>For full article click: <a href="http://intowner.com/2016/12/25/here-to-feast-on-historic-places-first-stirrings-of-historic-preservation-in-washington/" target="_blank">http://intowner.com/2016/12/25/here-to-feast-on-historic-places-first-stirrings-of-historic-preservation-in-washington/</a></p> 
+
+Link http://upshurstreetbooks.com failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/09/21/capital-streetcars-early-mass-transit-in-washington-d-c-book-talks-by-john-deferrari/
+    in element <li>Sunday, Oct 11, <span style="color:#ff0000;">6:00</span>pm – <a href="http://upshurstreetbooks.com">Upshur Street Books</a></li> 
+
+Link http://intowner.com/2017/05/22/selling-the-eyes-of-the-public-washington-wages-war-on-billboards/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/05/23/selling-the-eyes-of-the-public-washington-wages-war-on-billboards-for-a-century/
+    in element <p>COMPLETE  ARTICLE HERE: <a href="http://intowner.com/2017/05/22/selling-the-eyes-of-the-public-washington-wages-war-on-billboards/" rel="noopener noreferrer" target="_blank">http://intowner.com/2017/05/22/selling-the-eyes-of-the-public-washington-wages-war-on-billboards/</a></p> 
+
+Link https://www.dcpreservation.org/for-the-record/ failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2017/09/15/harewood-historic-ww-corcoran-house-threatened-with-destruction-by-basilica/
+    in element <p><a href="https://www.dcpreservation.org/for-the-record/" rel="nofollow">https://www.dcpreservation.org/for-the-record/</a></p> 
+
+Link https://www.ncpc.gov/project/carnegie/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/05/08/carnegie-transformation-to-apple-store-proposal-presentation-may-9-2017/
+    in element <p class="x_MsoNormal"> Here is a link to the updated project landing page on the NCPC website: <a href="https://www.ncpc.gov/project/carnegie/" rel="noopener noreferrer" target="_blank">https://www.ncpc.gov/project/carnegie/</a></p> 
+
+Link https://dcra.dc.gov/sites/default/files/dc/sites/dcra/page_content/attachments/SurDocs_User_Manual_2017.pdf failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2017/04/26/dc-surveyor-office-maps-online/
+    in element <p><strong>USE the manual:</strong><br/>
+<a href="https://dcra.dc.gov/sites/default/files/dc/sites/dcra/page_content/attachments/SurDocs_User_Manual_2017.pdf" rel="noopener noreferrer" target="_blank">SurDocs Manual</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/07/20/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic1.jpg" rel="lightbox[9822]"><img alt="1907 postcard view facing south along Connecticut Ave. from just below M St., NW. image--courtesy John DeFerrari, streetsofwashington.com." class="size-medium wp-image-9824" height="193" loading="lazy" src="https://i2.wp.com/intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic1-300x193.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic2.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/07/20/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic2.jpg" rel="lightbox[9822]"><img alt='Section from map, "Plan of the city of Washington in the territory of Columbia: ceded by the states of Virginia and Maryland to the United States of America, and by them established as the seat of their government, after the year MDCCC," Andrew Ellicott, Boston (1792). image-- Library of Congress, Geography &amp; Maps Div.. ' class="size-medium wp-image-9825" height="78" loading="lazy" src="https://i2.wp.com/intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic2-300x78.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic3.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/07/20/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic3.jpg" rel="lightbox[9822]"><img alt="Idealized 1830s depiction of Washington, DC in the early 1800s. image--Library of Congress, Prints &amp; Photographs Div.." class="size-medium wp-image-9826" height="222" loading="lazy" src="https://i2.wp.com/intowner.com/wp-content/uploads/2016/07/JUL-WhatOmceWas-pic3-300x222.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/2016/07/19/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/07/20/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war/
+    in element <p>COMPLETE ARTICLE HERE: <a href="http://intowner.com/2016/07/19/mrs-coles-bay-window-parking-streets-trees-projections-and-the-secretary-of-war/" target="_blank">Mrs Cole’s Bay Window</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/05/MAY-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/05/30/enterprise-over-washington-airship-history-at-the-nations-capital/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/05/MAY-WhatOnceWas-pic1.jpg" rel="lightbox[9585]"><img alt="Christening of the Los Angeles at Bolling Field, Washington, D.C, Nov, 25, 1924. photo--National Photo Company Collection, Library of Congress.    " class="size-medium wp-image-9592" height="216" loading="lazy" src="https://i0.wp.com/intowner.com/wp-content/uploads/2016/05/MAY-WhatOnceWas-pic1-300x216.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/05/MAY-WhatOnceWas-pic2.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/05/30/enterprise-over-washington-airship-history-at-the-nations-capital/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/05/MAY-WhatOnceWas-pic2.jpg" rel="lightbox[9585]"><img alt="Bolling Field &amp; Naval Air Station, circa 1922. photo--courtesy Library of Congress.    " class="size-medium wp-image-9593" height="239" loading="lazy" src="https://i2.wp.com/intowner.com/wp-content/uploads/2016/05/MAY-WhatOnceWas-pic2-300x239.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/2016/05/29/enterprise-over-washington-airship-history-at-the-nations-capital/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/05/30/enterprise-over-washington-airship-history-at-the-nations-capital/
+    in element <p>click for complete story: <a href="http://intowner.com/2016/05/29/enterprise-over-washington-airship-history-at-the-nations-capital/" target="_blank">http://intowner.com/2016/05/29/enterprise-over-washington-airship-history-at-the-nations-capital/</a></p> 
+
+Link http://www.cnic.navy.mil/regions/ndw/installations/nsa_washington/news/navy-sets-departure-date-for-display-ship-barry.html failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2016/04/18/ds-barry-departure-date-set/
+    in element <p><a href="http://www.cnic.navy.mil/regions/ndw/installations/nsa_washington/news/navy-sets-departure-date-for-display-ship-barry.html" target="_blank">http://www.cnic.navy.mil/regions/ndw/installations/nsa_washington/news/navy-sets-departure-date-for-display-ship-barry.html</a></p> 
+
+Link http://www.cnic.navy.mil/regions/ndw/installations/nsa_washington/about/installation_guide/display_ship_barry.html failed, response FAILED
+    on page https://matthewbgilmore.wordpress.com/2016/04/18/ds-barry-departure-date-set/
+    in element <a><a href="http://www.cnic.navy.mil/regions/ndw/installations/nsa_washington/about/installation_guide/display_ship_barry.html" rel="nofollow">http://www.cnic.navy.mil/regions/ndw/installations/nsa_washington/about/installation_guide/display_ship_barry.html</a></a> 
+
+Link http://www.gordonbiersch.com/locations/navy-yard/largeparties failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/03/21/die-braumeister/
+    in element <p>This month’s History &amp; Hops features <a href="http://www.gordonbiersch.com/locations/navy-yard/largeparties">Gordon Biersch Brewery and Restaurant at Navy Yard</a>.  Started in 1988 by Dan Gordon and Dean Biersch, the brewery reflects its founders’ love of German style lager beers.  Gordon Biersch was started as a small brewery and restaurant in Palo Alto, California, and within ten years the owners opened their first brewery and bottling facility in San Jose. The brewery at Gordon Biersch Navy Yard is managed by head brewer, Travis Tedrow, and the brewery features a selection of traditional German-style beers like maerzen, pilsners, and hefeweizens.</p> 
+
+Link http://intowner.com/2016/02/17/dignified-restrained-and-well-proportioned-the-making-of-the-district-of-columbia-municipal-building/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/02/18/dignified-restrained-and-well-proportioned-the-making-of-the-district-of-columbia-municipal-building/
+    in element <div class="boxright">full text here: <a href="http://intowner.com/2016/02/17/dignified-restrained-and-well-proportioned-the-making-of-the-district-of-columbia-municipal-building/" target="_blank">http://intowner.com/2016/02/17/dignified-restrained-and-well-proportioned-the-making-of-the-district-of-columbia-municipal-building/</a></div> 
+
+Link http://intowner.com/wp-content/uploads/2016/02/FEB-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/02/18/dignified-restrained-and-well-proportioned-the-making-of-the-district-of-columbia-municipal-building/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/02/FEB-WhatOnceWas-pic1.jpg" rel="lightbox[9206]"><img alt="1941 View of the Municipal Building. photo--Peter Sefton, Municipal Building nomination to Historic Preservation Review Board." class="size-medium wp-image-9209" height="198" loading="lazy" src="https://i1.wp.com/intowner.com/wp-content/uploads/2016/02/FEB-WhatOnceWas-pic1-300x198.jpg" width="300"/></a></p> 
+
+Link http://www.ncpc.gov/pennavenue failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/02/18/dignified-restrained-and-well-proportioned-the-making-of-the-district-of-columbia-municipal-building/
+    in element <p>Its fate today remains unknown. While continuing to suffer from critical deferred maintenance, options have been discussed for several years — news reports or rumors of some property swap deal have swirled since 2012 — but nothing new has been made public. In seemingly unrelated news much has been made of late of the deadness of Pennsylvania Avenue east of the White House (“the nation’s main street”) spawning ongoing planning efforts led by the National Capital Planning Commission, as outlined in its “<a href="http://www.ncpc.gov/pennavenue">Pennsylvania Avenue Initiative</a>” to enliven (“curate”) it.</p> 
+
+Link http://www.weatherbook.com/blizzard.html failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/25/snow-history-in-washington-dc/
+    in element <p>which has a sequel (of sorts) <em>Washington Weather</em> <a href="http://www.weatherbook.com/blizzard.html" target="_blank">http://www.weatherbook.com/blizzard.html</a>; reviewed here on H-DC <strong>Citation: </strong>Michael R. Harrison. Review of Ambrose, Kevin; Henry, Dan; Weiss, Andy, <em>Washington Weather: The Weather Sourcebook for the D.C. Area</em>. H-DC, H-Net Reviews. May, 2004.<br/>
+<strong>URL:</strong> <a href="http://www.h-net.org/reviews/showrev.php?id=9296" rel="nofollow">http://www.h-net.org/reviews/showrev.php?id=9296</a></p> 
+
+Link http://www.amazon.com/Snow-America-MERGEN-BERNARD/dp/1560983817 failed, response <Response [503]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/25/snow-history-in-washington-dc/
+    in element <span class="a-size-large"><a href="http://www.amazon.com/Snow-America-MERGEN-BERNARD/dp/1560983817" target="_blank">http://www.amazon.com/Snow-America-MERGEN-BERNARD/dp/1560983817</a></span> 
+
+Link http://www.jstor.org/stable/40073184 failed, response <Response [420]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/25/snow-history-in-washington-dc/
+    in element <strong>Spring/Summer 1996, 8 (1) URL: <a href="http://www.jstor.org/stable/40073184" target="_blank">http://www.jstor.org/stable/40073184</a> (requires JStor login)</strong> 
+
+Link http://www.wsj.com/video/time-lapse-of-historic-washington-dc-blizzard/B823ADCE-6623-4B80-B1FD-39E1C8C629B7.html failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/25/snow-history-in-washington-dc/
+    in element <p>Time-lapse loop of the Jnaury 2016 storm: <a href="http://www.wsj.com/video/time-lapse-of-historic-washington-dc-blizzard/B823ADCE-6623-4B80-B1FD-39E1C8C629B7.html" target="_blank">http://www.wsj.com/video/time-lapse-of-historic-washington-dc-blizzard/B823ADCE-6623-4B80-B1FD-39E1C8C629B7.html</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2016/01/JAN-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/12/washingtons-lincoln-the-first-monument-to-the-martyred-president/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2016/01/JAN-WhatOnceWas-pic1.jpg" rel="lightbox[9121]"><img alt="2015 view of the Lincoln National Monument located in front of the DC Court of Appeals (originally, City Hall) on Indiana Ave. at 4th St., NW. photo--Lucas Bojarowski, imagesbylucas.com." class="size-medium wp-image-9124" height="300" loading="lazy" src="https://i0.wp.com/intowner.com/wp-content/uploads/2016/01/JAN-WhatOnceWas-pic1-240x300.jpg" width="240"/></a></p> 
+
+Link http://imagesbylucas.com failed, response <Response [406]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/12/washingtons-lincoln-the-first-monument-to-the-martyred-president/
+    in element <em>photo–Lucas Bojarowski, <a href="http://imagesbylucas.com" target="_blank">imagesbylucas.com</a></em> 
+
+Link http://intowner.com/2016/01/11/washingtons-lincoln-the-first-monument-to-the-martyred-president/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2016/01/12/washingtons-lincoln-the-first-monument-to-the-martyred-president/
+    in element <p>Full post here: <a href="http://intowner.com/2016/01/11/washingtons-lincoln-the-first-monument-to-the-martyred-president/" target="_blank">http://intowner.com/2016/01/11/washingtons-lincoln-the-first-monument-to-the-martyred-president/</a></p> 
+
+Link http://intowner.com/wp-content/uploads/2015/12/DEC-WhatOnceWas-pic1.jpg failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/12/18/dc-prisoners-on-the-hudson-abraham-lincoln-amos-pilsbury-and-the-albany-penitentiary/
+    in element <p><a href="http://intowner.com/wp-content/uploads/2015/12/DEC-WhatOnceWas-pic1.jpg" rel="lightbox[9049]"><img alt="Amos Pilsbury’s letter to President Lincoln seeking pardon for prisoner William N. Chester. image--The Papers of Abraham Lincoln, courtesy National Archive &amp; Library of Congress. " class="size-medium wp-image-9050" height="300" loading="lazy" src="https://i1.wp.com/intowner.com/wp-content/uploads/2015/12/DEC-WhatOnceWas-pic1-300x300.jpg" width="300"/></a></p> 
+
+Link http://intowner.com/2015/12/17/dc-prisoners-on-the-hudson-abraham-lincoln-amos-pilsbury-and-the-albany-penitentiary-2/ failed, response <Response [404]>
+    on page https://matthewbgilmore.wordpress.com/2015/12/18/dc-prisoners-on-the-hudson-abraham-lincoln-amos-pilsbury-and-the-albany-penitentiary/
+    in element <p>FULL TEXT HERE: <a href="http://intowner.com/2015/12/17/dc-prisoners-on-the-hudson-abraham-lincoln-amos-pilsbury-and-the-albany-penitentiary-2/" target="_blank">http://intowner.com/2015/12/17/dc-prisoners-on-the-hudson-abraham-lincoln-amos-pilsbury-and-the-albany-penitentiary-2/</a></p> 
+
+Link http://www.wsj.com/articles/book-review-fortunes-fool-by-terry-alford-1427487254 failed, response <Response [403]>
+    on page https://matthewbgilmore.wordpress.com/2015/12/13/rtb-alfordfortunes-fool-read-this-book-new-and-classic-books-for-your-dc-history-bookshelf/
+    in element <li>Another, from the <em>Wall Street Journal</em> here: <a href="http://www.wsj.com/articles/book-review-fortunes-fool-by-terry-alford-1427487254" target="_blank">http://www.wsj.com/articles/book-review-fortunes-fool-by-terry-alford-1427487254</a></li> 
+
