@@ -15,7 +15,7 @@ def get_attempt(base_url, get_params=None, attempts=10):
     return response
 
 # Recursive function to crawl unseen links
-def check_page(href, done_hrefs, true_domain, check_depth, f):
+def check_page(href, done_hrefs, true_domain, check_depth, f, internal_hrefs):
     check_depth += 1
     #print(check_depth)
     # Make fully qualified if not
@@ -25,7 +25,7 @@ def check_page(href, done_hrefs, true_domain, check_depth, f):
     # Check if link is known broken
     if href in failed_hrefs.keys():
         check_depth -= 1
-        return failed_hrefs['href']
+        return failed_hrefs[href]
     
     # Check if link is duplicate
     if href in done_hrefs:
@@ -35,9 +35,9 @@ def check_page(href, done_hrefs, true_domain, check_depth, f):
     # Check if link is internal
     internal = href[:len(true_domain)] == true_domain
     
-    # # Print statement every ten pages processed
-    # if len(done_hrefs) % 10 == 0:
-    #     pass #print(f"Pages processed: {len(done_hrefs)}")
+    # Print statement every ten pages processed
+    if len(done_hrefs) % 10 == 0:
+        print(f"Pages processed: {len(done_hrefs)}")
 
     # Add current page to done list and attempt to access
 
@@ -46,11 +46,16 @@ def check_page(href, done_hrefs, true_domain, check_depth, f):
     done_hrefs.append(href)
     req = get_attempt(href, attempts=3)
 
+    if req != "FAILED":
+        req_status = req.status_code
+    else:
+        req_status = "FAILED"
+
     # Return if request failed
-    if (req == "FAILED") or (req.status_code != 200):
-        failed_hrefs['href'] = req
+    if req_status != 200:
+        failed_hrefs[href] = req_status
         check_depth -= 1
-        return req
+        return req_status
 
     # Only continue crawling if link was internal    
     if internal:
@@ -59,9 +64,13 @@ def check_page(href, done_hrefs, true_domain, check_depth, f):
         anchors = soup.find_all("a")
         for item in anchors:
             if 'href' in item.attrs.keys():
-                # Ignore any urls which include a query
-                if item['href'].find('?') == -1 and item['href'].find('@') == -1:
-                    if (ret_val := check_page(item['href'], done_hrefs, true_domain, check_depth, f)) is not None:
+                # Ignore any urls which include a query or fragment identifier
+                if item['href'].find('?') == -1 and item['href'].find('@') == -1 and item['href'].find('#') == -1:
+                    if (item['href'][:len(true_domain)] == true_domain):
+                        if item['href'] not in internal_hrefs:
+                            internal_hrefs.append(item['href'])
+                        continue
+                    if (ret_val := check_page(item['href'], done_hrefs, true_domain, check_depth, f, internal_hrefs)) is not None:
                         print(f"Link {item['href']} failed, response {ret_val}", file=f)
                         print(f"    on page {href}", file=f)
                         print(f"    in element {item.parent} \n", file=f)
@@ -77,13 +86,15 @@ true_domain = "/".join(root_url.split("/")[:3])
 # Set root_url to end with slash and add version without slash to done hrefs
 if root_url[-1] != "/":
     root_url = root_url + "/"
-done_hrefs = [root_url[:-1]]
+done_hrefs = []
 failed_hrefs = dict()
+internal_hrefs = [root_url[:-1]]
 check_depth = 0
 f = open("/Users/benjaminpeck/Desktop/Stuff/LinkCheck/link_check_output.txt", 'w', buffering=1)
 print("Link Check Output:", file=f)
 
 # Attempt to access user-supplied root url, exit if not usable
-check_page(root_url, done_hrefs, true_domain, check_depth, f)
+for link in internal_hrefs:
+    check_page(link, done_hrefs, true_domain, check_depth, f, internal_hrefs)
 
 f.close()
