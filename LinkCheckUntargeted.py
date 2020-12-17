@@ -6,7 +6,7 @@ def get_attempt(base_url, get_params=None, attempts=10):
     for attempt in range(attempts):
         time.sleep(0.5)
         try:
-            response = requests.get(base_url, params=get_params, allow_redirects=True)
+            response = requests.get(base_url, params=get_params, allow_redirects=True, stream=True)
             break
         except:
             if attempt == attempts - 1:
@@ -41,7 +41,7 @@ def check_page(href, done_hrefs, true_domain, check_depth, f, internal_hrefs):
 
     # Add current page to done list and attempt to access
 
-    # print(f"CHECKING {href}", file=f)
+    #print(f"CHECKING {href}")#, file=f)
 
     done_hrefs.append(href)
     req = get_attempt(href, attempts=3)
@@ -55,6 +55,8 @@ def check_page(href, done_hrefs, true_domain, check_depth, f, internal_hrefs):
     if req_status != 200:
         failed_hrefs[href] = req_status
         check_depth -= 1
+        if req != "FAILED":
+            req.close()
         return req_status
 
     # Only continue crawling if link was internal    
@@ -65,7 +67,7 @@ def check_page(href, done_hrefs, true_domain, check_depth, f, internal_hrefs):
         for item in anchors:
             if 'href' in item.attrs.keys():
                 # Ignore any urls which include a query or fragment identifier
-                if item['href'].find('?') == -1 and item['href'].find('@') == -1 and item['href'].find('#') == -1:
+                if item['href'].find('?') == -1 and item['href'].find('@') == -1 and item['href'].find('#') == -1 and item['href'].find('javascript:') == -1:
                     if (item['href'][:len(true_domain)] == true_domain):
                         if item['href'] not in internal_hrefs:
                             internal_hrefs.append(item['href'])
@@ -75,6 +77,7 @@ def check_page(href, done_hrefs, true_domain, check_depth, f, internal_hrefs):
                         print(f"    on page {href}", file=f)
                         print(f"    in element {item.parent} \n", file=f)
     check_depth -= 1
+    req.close()
     return
 
 # Initial inputs - root supplied by user

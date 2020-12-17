@@ -7,137 +7,25 @@ Link https://intowner.com/2020/03/24/food-on-the-streets-street-vending-in-the-d
     on page https://matthewbgilmore.wordpress.com/
     in element <p>Food on the Streets: Street vending in the District of Columbia Excerpts.. . For complete column CLICK: <a href="https://intowner.com/2020/03/24/food-on-the-streets-street-vending-in-the-district-of-columbia/" rel="nofollow">https://intowner.com/2020/03/24/food-on-the-streets-street-vending-in-the-district-of-columbia/</a> By Matthew B. Gilmore*   In 19th century Washington sales of goods … <a class="read-more" href="https://matthewbgilmore.wordpress.com/2020/03/27/food-on-the-streets-street-vending-in-the-district-of-columbia/">Continue reading <span class="meta-nav">→</span></a></p> 
 
-Link javascript:HighlanderComments.doExternalLogout( 'wordpress' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/a-timeline-of-washington-dc-history/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'googleplus' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/a-timeline-of-washington-dc-history/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'twitter' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/a-timeline-of-washington-dc-history/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'facebook' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/a-timeline-of-washington-dc-history/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.cancelExternalWindow(); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/a-timeline-of-washington-dc-history/
-    in element <div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div> 
-
 Link //static.getclicky.com/js failed, response 404
     on page https://matthewbgilmore.wordpress.com/about/
     in element <p><a href="http://clicky.com/100874173" title="Web Analytics"><img alt="Web Analytics" border="0" src="//static.getclicky.com/media/links/badge.gif"/></a><br/>
 <a href="//static.getclicky.com/js">//static.getclicky.com/js</a><br/>
 try{ clicky.init(100874173); }catch(e){}</p> 
 
-Link javascript:HighlanderComments.doExternalLogout( 'wordpress' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/about/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
+Link http://www.loc.gov/exhibits/treasures/trm203.html failed, response 404
+    on page https://matthewbgilmore.wordpress.com/bonus-army/
+    in element <p><a href="http://www.loc.gov/exhibits/treasures/trm203.html">Library of Congress–The Bonus Army March.</a></p> 
 
-Link javascript:HighlanderComments.doExternalLogout( 'googleplus' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/about/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
+Link http://www.historynet.com/culture/politics/3026231.html failed, response 403
+    on page https://matthewbgilmore.wordpress.com/bonus-army/
+    in element <p><a href="http://www.historynet.com/culture/politics/3026231.html">The ‘Bonus Army’ War in Washington</a></p> 
 
-Link javascript:HighlanderComments.doExternalLogout( 'twitter' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/about/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
+Link http://www.time.com/time/magazine/article/0,9171,744107,00.html failed, response 404
+    on page https://matthewbgilmore.wordpress.com/bonus-army/
+    in element <p><a href="http://www.time.com/time/magazine/article/0,9171,744107,00.html">Battle of Washington</a></p> 
 
-Link javascript:HighlanderComments.doExternalLogout( 'facebook' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/about/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.cancelExternalWindow(); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/about/
-    in element <div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'wordpress' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'googleplus' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'twitter' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'facebook' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.cancelExternalWindow(); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/
-    in element <div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'wordpress' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/commissioners-of-the-district-of-columbia-1874-1967/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'googleplus' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/commissioners-of-the-district-of-columbia-1874-1967/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'twitter' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/commissioners-of-the-district-of-columbia-1874-1967/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.doExternalLogout( 'facebook' ); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/commissioners-of-the-district-of-columbia-1874-1967/
-    in element <span class="comment-form-log-out">
-				( <a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log Out</a> / 
-				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a> )
-			</span> 
-
-Link javascript:HighlanderComments.cancelExternalWindow(); failed, response FAILED
-    on page https://matthewbgilmore.wordpress.com/bibliographies/commissioners-of-the-district-of-columbia-1874-1967/
-    in element <div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div> 
+Link http://www.americanheritage.com/articles/magazine/ah/1963/4/1963_4_18.shtml failed, response 404
+    on page https://matthewbgilmore.wordpress.com/bonus-army/
+    in element <p><a href="http://www.americanheritage.com/articles/magazine/ah/1963/4/1963_4_18.shtml">BONUS MARCH</a></p> 
 
