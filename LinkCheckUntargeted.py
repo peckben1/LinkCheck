@@ -12,7 +12,7 @@ def get_attempt(base_url, get_params=None, attempts=10):
     for attempt in range(attempts):
         time.sleep(0.5)
         try:
-            response = requests.get(base_url, params=get_params, allow_redirects=True, stream=True, timeout=30)
+            response = requests.get(base_url, params=get_params, allow_redirects=True, stream=True, timeout=6)
             break
         except:
             if attempt == attempts - 1:
@@ -77,7 +77,12 @@ def check_page(href, links, true_domain):
                         if item['href'] not in links.keys():
                             links[(item['href'])] = LinkClass(None, {href: item.parent})
                         else:
-                            links[(item['href'])].parents.update({href: item.parent})
+                            #links[(item['href'])].parents.update({href: item.parent})
+                            apple = item['href']
+                            orange = links[apple]
+                            banana = orange.parents
+                            pineapple = item.parent
+                            banana.update({href: pineapple})
                         continue
                     if item['href'][:4] != "http":
                         if (true_domain + item['href']) not in links.keys():
